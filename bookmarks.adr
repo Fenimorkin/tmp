@@ -1,0 +1,2386 @@
+Opera Hotlist version 2.0
+Options: encoding = utf8, version=3
+
+#FOLDER
+	NAME=Trash
+	UNIQUEID=A86AF3602B5641109DE0DAC709AEDDBD
+	TRASH FOLDER=YES
+
+-
+
+#FOLDER
+	ID=480
+	NAME=Opera
+	CREATED=1449469556
+	PARTNERID=opera-operafolder
+	UNIQUEID=22A208401A374AC093A1041CB1973E63
+
+#URL
+	ID=481
+	NAME=Сообщество My Opera
+	URL=http://my.opera.com/?utm_source=DesktopBrowser&utm_medium=Bookmark&utm_campaign=BrowserLinks
+	CREATED=1449469556
+	ON PERSONALBAR=YES
+	PERSONALBAR_POS=3
+	UNIQUEID=0C07A568A3724FE49252B0046C79C09D
+	PARTNERID=opera-operasocial
+
+#URL
+	ID=482
+	NAME=Служба поддержки
+	URL=http://www.opera.com/support/?utm_source=DesktopBrowser&utm_medium=Bookmark&utm_campaign=BrowserLinks
+	CREATED=1449469556
+	UNIQUEID=0B09A989492D4A96B716457D7342F109
+	PARTNERID=opera-operasupport
+
+#URL
+	ID=483
+	NAME=Get started with Opera
+	URL=http://www.opera.com/portal/startup/?utm_source=DesktopBrowser&utm_medium=Bookmark&utm_campaign=BrowserLinks
+	CREATED=1449469556
+	UNIQUEID=18CD2A92CCF9453A98D3C2B85ADE90F2
+	PARTNERID=opera-operastart
+
+#URL
+	ID=484
+	NAME=Расширения Opera
+	URL=https://addons.opera.com/
+	CREATED=1449469556
+	DESCRIPTION=addons, extensions
+	UNIQUEID=29DF2B28174D42D08D98B71A16139D64
+	PARTNERID=opera-operaextensions
+
+#URL
+	ID=485
+	NAME=Opera Portal
+	URL=http://portal.opera.com/?utm_source=DesktopBrowser&utm_medium=Bookmark&utm_campaign=BrowserLinks
+	CREATED=1449469556
+	UNIQUEID=93D5337B1657409084924E007F49387C
+	PARTNERID=opera-operaportal
+
+#URL
+	ID=486
+	NAME=OZON.ru
+	URL=http://redir.opera.com/bookmarks/ozon/
+	DISPLAY URL=http://www.ozon.ru/?partner=operacom&from=bookmarks
+	CREATED=1449469556
+	DESCRIPTION=покупки, подарки, книги, кино, Озон
+	ON PERSONALBAR=YES
+	PERSONALBAR_POS=1
+	UNIQUEID=619F07BBCA734202B2EF9B7B2F7956AB
+	PARTNERID=opera-webshop
+
+#URL
+	ID=487
+	NAME=Mail.Ru
+	URL=http://redir.opera.com/bookmarks/mail.ru
+	DISPLAY URL=http://mail.ru/cnt/5667?fr=o11bkm
+	CREATED=1449469556
+	DESCRIPTION=почта, мэйл
+	ON PERSONALBAR=YES
+	PERSONALBAR_POS=2
+	UNIQUEID=53450AAB91294BB1961239E3D6870607
+	PARTNERID=opera-portal
+
+#URL
+	ID=488
+	NAME=Рамблер Новости
+	URL=http://redir.opera.com/bookmarks/rambler
+	DISPLAY URL=http://news.rambler.ru
+	CREATED=1449469556
+	UNIQUEID=4F107ADA64C049CDA90AC7FA0BDE09D5
+	PARTNERID=opera-portal2
+
+#URL
+	ID=489
+	NAME=Яндекс
+	URL=http://redir.opera.com/bookmarks/yandex/
+	DISPLAY URL=http://www.yandex.ru/?clid=9403
+	CREATED=1449469556
+	UNIQUEID=16832BF851CC4691B7ABA4B77E799745
+	PARTNERID=opera-searchengine
+
+#URL
+	ID=490
+	NAME=Wikipedia
+	URL=http://ru.wikipedia.org/wiki/Заглавная_страница
+	CREATED=1449469556
+	ON PERSONALBAR=YES
+	PERSONALBAR_POS=5
+	UNIQUEID=FBFC57E6A81E4924AF7945154E2B98E8
+	PARTNERID=opera-encyclopedia
+
+#URL
+	ID=491
+	NAME=Groupon
+	URL=http://redir.opera.com/bookmarks/groupon.ru
+	DISPLAY URL=http://groupon.ru/
+	CREATED=1449469556
+	DESCRIPTION=Купон, акции, распродажа, групон, скидки
+	UNIQUEID=F79F7ABBDF6E4C8D83817C6717B242BD
+	PARTNERID=opera-discount
+
+#URL
+	ID=492
+	NAME=My Opera Mail
+	URL=http://mail.opera.com/?utm_source=DesktopBrowser&utm_medium=Bookmark&utm_campaign=BrowserLinks
+	CREATED=1449469556
+	DESCRIPTION=Free mail
+	UNIQUEID=BE6CA6E1CA86413A92F5FC2C28E71CAD
+	PARTNERID=opera-mail2
+
+#URL
+	ID=493
+	NAME=Автопортал Drom.ru
+	URL=http://redir.opera.com/bookmarks/drom
+	DISPLAY URL=http://www.drom.ru/
+	CREATED=1449469556
+	DESCRIPTION=продажа, автомобили, auto
+	UNIQUEID=6AF4D12C130F4644A3159F7E63DB4AE7
+	PARTNERID=opera-cars
+
+#URL
+	ID=494
+	NAME=Sports
+	URL=http://redir.opera.com/bookmarks/sports.opera.com
+	DISPLAY URL=http://sports-portal.opera.globalsportsmedia.com/?locale=ru
+	CREATED=1449469556
+	UNIQUEID=A3457DBDD69C4061B5B393A85D66F9D1
+	PARTNERID=opera-sportsnews
+
+#URL
+	ID=495
+	NAME=Booking.com
+	URL=http://redir.opera.com/bookmarks/booking.com/ru/
+	DISPLAY URL=http://www.booking.com/
+	CREATED=1449469556
+	DESCRIPTION=Отель, Гостиница, Бронирование
+	ON PERSONALBAR=YES
+	PERSONALBAR_POS=4
+	UNIQUEID=0739A8A088FA4094ADDF36856DB4340F
+	PARTNERID=opera-booking
+
+#URL
+	ID=496
+	NAME=Hotels.com
+	URL=http://redir.opera.com/bookmarks/hotels.com
+	DISPLAY URL=http://hotels.com/
+	CREATED=1449469556
+	DESCRIPTION=hotels
+	UNIQUEID=83EDE91B0FE34F1392665EB3F5AD2BFE
+	PARTNERID=opera-booking2
+
+#URL
+	ID=497
+	NAME=Skyscanner
+	URL=http://redir.opera.com/bookmarks/skyscanner
+	DISPLAY URL=http://www.skyscanner.ru
+	CREATED=1449469556
+	DESCRIPTION=авиа, билеты, аэро
+	UNIQUEID=727C65A69979407B9CE5AE3258FB846B
+	PARTNERID=opera-travel
+
+#URL
+	ID=498
+	NAME=Бесплатные программы - izone.ru
+	URL=http://redir.opera.com/bookmarks/izone
+	DISPLAY URL=http://www.izone.ru/opera.html
+	CREATED=1449469556
+	DESCRIPTION=софт
+	UNIQUEID=C5D46EA0A7CE4A289BF51D48488D03AF
+	PARTNERID=opera-downloadsite
+
+#URL
+	ID=499
+	NAME=Softportal - 20000 программ
+	URL=http://redir.opera.com/bookmarks/softportal
+	DISPLAY URL=http://www.softportal.com/?referer=opera
+	CREATED=1449469556
+	DESCRIPTION=софт
+	UNIQUEID=4069F6480B084C2A99AFF28CF4AD563E
+	PARTNERID=opera-downloadsite2
+
+#URL
+	ID=500
+	NAME=Онлайн-игры
+	URL=http://redir.opera.com/bookmarks/gamexp
+	DISPLAY URL=http://opera.gamexp.ru/
+	CREATED=1449469556
+	UNIQUEID=B93270B497EC48ECBB1CEF96A95D6D6D
+	PARTNERID=opera-gamesportal
+
+#URL
+	ID=501
+	NAME=Мини-игры
+	URL=http://redir.opera.com/bookmarks/alawar
+	DISPLAY URL=http://www.alawar.ru/
+	CREATED=1449469556
+	DESCRIPTION=Игры, мини-игры, game
+	UNIQUEID=DB946CB195514BB4BA8BE45F352B409D
+	PARTNERID=opera-gamesportal2
+
+#URL
+	ID=502
+	NAME=Bigpoint
+	URL=http://redir.opera.com/bookmarks/bigpoint/
+	DISPLAY URL=http://www.bigpoint.com/?aid=2922
+	CREATED=1449469556
+	DESCRIPTION=Онлайн-игры. MMO-игры, бесплатные игры
+	UNIQUEID=2633F9CAFCD54C7B97E49102BD772021
+	PARTNERID=opera-gamesportal3
+
+#URL
+	ID=503
+	NAME=Sapato.ru
+	URL=http://redir.opera.com/bookmarks/shopping1/ru
+	DISPLAY URL=http://www.sapato.ru/
+	CREATED=1449469556
+	DESCRIPTION=женская, мужская, детская, обувь, сумки
+	UNIQUEID=383741AFBDF24D0ABB24A5452C284335
+	PARTNERID=opera-clothing
+
+#URL
+	ID=504
+	NAME=Рамблер-Авиа
+	URL=http://redir.opera.com/bookmarks/avia/ru
+	DISPLAY URL=http://avia.rambler.ru/
+	CREATED=1449469556
+	DESCRIPTION=авиа, билеты, бронирование
+	UNIQUEID=0D08A78AC54240B58036A617F4E78DBA
+	PARTNERID=opera-travel3
+
+#URL
+	ID=505
+	NAME=eBay.ru
+	URL=http://redir.opera.com/bookmarks/shopping/ru
+	DISPLAY URL=http://www.ebay.ru
+	CREATED=1449469556
+	DESCRIPTION=Мода, электроника, покупки
+	UNIQUEID=55DA86E6CC334CF9B2F5A38728A63F52
+	PARTNERID=opera-auction
+
+#URL
+	ID=506
+	NAME=FreeSoft - Каталог программ
+	URL=http://redir.opera.com/bookmarks/soft/ru
+	DISPLAY URL=http://freesoft.ru/
+	CREATED=1449469556
+	DESCRIPTION=софт, бесплатно, скачать
+	UNIQUEID=98A57E58F0B445F4BEFECB162C380B5A
+	PARTNERID=opera-downloadsite3
+
+#URL
+	ID=507
+	NAME=ЛитРес
+	URL=http://redir.opera.com/bookmarks/shopping2/ru
+	DISPLAY URL=http://www.litres.ru/
+	CREATED=1449469556
+	DESCRIPTION=магазин, электронных, аудио, книгz
+	UNIQUEID=19DC336C0B6647658941ACE7D6BB07BB
+	PARTNERID=opera-webshop2
+
+#URL
+	ID=508
+	NAME=торговый центр Wikimart
+	URL=http://redir.opera.com/bookmarks/shopping4/ru
+	DISPLAY URL=http://wikimart.ru/
+	CREATED=1449469556
+	DESCRIPTION=коляски, холодильники, стиральные, автокресла, шины
+	UNIQUEID=4649D3338DA74F1FB30CB39105E101C8
+	PARTNERID=opera-webshop3
+
+#URL
+	ID=509
+	NAME=Поиск объявлений по автомобилям - Pingola.ru
+	URL=http://redir.opera.com/bookmarks/auto/ru
+	DISPLAY URL=http://vehicles.pingola.ru
+	CREATED=1449469556
+	DESCRIPTION=Машина, ВАЗ, ниссан, тойота, форд
+	UNIQUEID=2FDD11366CB94BC691C0878D68F6F00D
+	PARTNERID=opera-cars2
+
+#URL
+	ID=510
+	NAME=Онлайн видео Megogo.net
+	URL=http://redir.opera.com/bookmarks/video/ru
+	DISPLAY URL=http://megogo.net/ru
+	CREATED=1449469556
+	DESCRIPTION=видео, кино, смотреть
+	UNIQUEID=936D076B428F474F96145A29716EF233
+	PARTNERID=opera-videostreaming
+
+#URL
+	ID=511
+	NAME=Aviasales - дешевые авиабилеты
+	URL=http://redir.opera.com/bookmarks/avia1/ru
+	DISPLAY URL=http://www.aviasales.ru/
+	CREATED=1449469556
+	DESCRIPTION=аэро, билеты, бронирование, купить, спецпредложения
+	UNIQUEID=D3A86ABB0EF5488BA107B2A61652C349
+	PARTNERID=opera-booking3
+
+#URL
+	ID=512
+	NAME=FastMail
+	URL=http://redir.opera.com/bookmarks/fastmail
+	DISPLAY URL=http://www.fastmail.fm/
+	CREATED=1346652825
+	UNIQUEID=BAF6AE40FA1543AC97010132CD806EEE
+	PARTNERID=opera-mail
+
+#URL
+	ID=513
+	NAME=Мамба
+	URL=http://redir.opera.com/bookmarks/mamba
+	DISPLAY URL=http://partner.mamba.ru/link.phtml?pid=3&lid=9509
+	CREATED=1346652825
+	DESCRIPTION=знакомства, свидание, встреча
+	UNIQUEID=7AA53B5198BB4451899E906C08CAF9ED
+	PARTNERID=opera-onlinedating
+
+#URL
+	ID=514
+	NAME=Он-лайн бронирование туров
+	URL=http://redir.opera.com/bookmarks/travelmenu/
+	DISPLAY URL=http://www.booking.com/index.html?aid=339467&label=operasoft-bookmarks-339467&utm_source=Opera&utm_medium=web&utm_campaign=bookmark
+	CREATED=1346652825
+	DESCRIPTION=туры,  Египет, Тайланд, Турция, Италия
+	UNIQUEID=1325EFB7ACBB454BACE91B029D9A3572
+	PARTNERID=opera-travel2
+
+#URL
+	ID=515
+	NAME=Fotostrana
+	URL=http://redir.opera.com/bookmarks/fotostrana/
+	DISPLAY URL=http://fotostrana.ru/go.php?id=20090&ref_id=537090916
+	CREATED=1346652825
+	DESCRIPTION=девушки, знакомства, фото, игры, парни
+	UNIQUEID=2CEA0CC8D891448BB567D9974B770431
+	PARTNERID=opera-social
+
+#URL
+	ID=516
+	NAME=AVG
+	URL=http://redir.opera.com/bookmarks/AVG/
+	DISPLAY URL=http://www.avg.com/ww-en/opera
+	CREATED=1346652825
+	DESCRIPTION=Security, pc tune up, anti-virus
+	UNIQUEID=0CFC07B2DE96404082C4214FD923DAE6
+	PARTNERID=opera-security
+
+#URL
+	ID=517
+	NAME=Загрузка Opera
+	URL=http://www.opera.com/download/?utm_source=DesktopBrowser&utm_medium=Bookmark&utm_campaign=BrowserLinks
+	CREATED=1292768481
+	UNIQUEID=29F8448D84C24318A6F005DE2D530A28
+	PARTNERID=opera-operadownload
+
+#URL
+	ID=518
+	NAME=Opera Web Mail
+	URL=http://www.operamail.com/
+	CREATED=1292768481
+	UNIQUEID=CD2F452A6C1844EAB09FBF30531876F5
+
+#URL
+	ID=519
+	NAME=ЛитРес
+	URL=http://redir.opera.com/bookmarks/shopping2/ru
+	DISPLAY URL=http://www.litres.ru/?lfrom=7195255
+	CREATED=1321722002
+	DESCRIPTION=магазин, электронных, аудио, книгz
+	UNIQUEID=D4438FC7DE4C4C598EFE5468F26860C2
+	PARTNERID=opera-webshop2
+
+#URL
+	ID=520
+	NAME=Gazeta.ru
+	URL=http://redir.opera.com/bookmarks/gazeta.ru/
+	DISPLAY URL=http://www.gazeta.ru/?opera
+	CREATED=1321722002
+	DESCRIPTION=новости политики, бизнеса, финансов, спорта, науки, культуры
+	UNIQUEID=34049E4155AC492FAE73ACCC3D0EA48C
+	PARTNERID=opera-news
+
+-
+
+#URL
+	ID=521
+	NAME=joeconway.com - Home
+	URL=http://www.joeconway.com/web/guest;jsessionid=20CD4C0E7787771E09DE8705E0A78AF0
+	CREATED=1447089961
+	VISITED=1448515606
+	UNIQUEID=F261AFF0870611E5886CA12344C03835
+
+#URL
+	ID=522
+	NAME=Создание пользовательских функций в PostgreSQL | PostgreSQL
+	URL=http://postgresql.ru.net/docs/function.html
+	CREATED=1446624164
+	VISITED=1458917821
+	UNIQUEID=6DDCA6D082CA11E59611F8EE8A3523B5
+
+#URL
+	ID=523
+	NAME=Агрегатные функции | PostgreSQL
+	URL=http://postgresql.ru.net/manual/tutorial-agg.html
+	CREATED=1446624182
+	VISITED=1448515605
+	UNIQUEID=78D6B5D082CA11E59612C8D015979CA5
+
+#URL
+	ID=524
+	NAME=[Howto] Installing the PostgreSQL server (Page 1) — Community Documentation — OpenWrt
+	URL=https://forum.openwrt.org/viewtopic.php?id=11812
+	CREATED=1446623032
+	VISITED=1448515605
+	DESCRIPTION=[Howto] Installing the PostgreSQL server (Page 1) — Community Documentation — OpenWrt — Wireless Freedom
+	UNIQUEID=CB2599D082C711E5960AC77DAB466188
+
+#URL
+	ID=525
+	NAME=Работа с PostgreSQL: настройка и масштабирование
+	URL=http://postgresql.leopard.in.ua/html/#x1-80002.2
+	CREATED=1446623014
+	VISITED=1448515605
+	UNIQUEID=C064EA5082C711E59608EA0805BC7A52
+
+#URL
+	ID=526
+	NAME=Некоторые интересные отличия PostgreSQL от MySQL | Записки программиста
+	URL=http://eax.me/postgresql-vs-mysql/
+	CREATED=1446622996
+	VISITED=1448515606
+	DESCRIPTION=MySQL недаром пользуется большой популярностью в мире реляционных баз данных. Это хорошая, годная РСУБД с открытым исходным кодом. Но не единственная в своем ро
+	UNIQUEID=B6196AD082C711E59605C6B9956F40F9
+
+#URL
+	ID=527
+	NAME=Как спроектировать схему базы данных | Записки программиста
+	URL=http://eax.me/database-design/
+	CREATED=1446623003
+	VISITED=1450358593
+	DESCRIPTION=Время от времени я заглядываю на toster.ru и иногда даже отвечаю там на вопросы. Чаще всего люди спрашивают две вещи --- как стать программистом и как правильно
+	UNIQUEID=B9B7EE5082C711E59606D034ECE35D8E
+
+#URL
+	ID=528
+	NAME=Russian - PostgreSQL wiki
+	URL=https://wiki.postgresql.org/wiki/Russian
+	CREATED=1446622954
+	VISITED=1450683427
+	UNIQUEID=9C8B844082C711E59603FE52C891EFB7
+
+#URL
+	ID=529
+	NAME=PostgreSQL: Documentation: 9.4: PostgreSQL 9.4.5 Documentation
+	URL=http://www.postgresql.org/docs/9.4/interactive/index.html
+	CREATED=1446622941
+	VISITED=1447314104
+	UNIQUEID=950A214082C711E59601925EA44C1F69
+
+#URL
+	ID=530
+	NAME=Написание расширений для PostgreSQL с использованием GiST
+	URL=http://www.sai.msu.su/~megera/postgres/talks/gist_tutorial.html
+	CREATED=1446622844
+	VISITED=1447314104
+	UNIQUEID=5B04EB6082C711E595FCA2881E461EBE
+
+#URL
+	ID=531
+	NAME=Алгоритм Флойда — Уоршелла / Хабрахабр
+	URL=http://habrahabr.ru/post/105825/
+	CREATED=1433831315
+	VISITED=1437975358
+	DESCRIPTION=Алгоритм Флойда — Уоршелла — алгоритм для нахождения кратчайших расстояний между всеми вершинами взвешенного графа без циклов с отрицательными весами с использованием метода динамического...
+	UNIQUEID=C1AE9BC00E7011E5874DDFF0C440931D
+
+#URL
+	ID=532
+	NAME=Базовые алгоритмы нахождения кратчайших путей во взвешенных графах / Хабрахабр
+	URL=http://habrahabr.ru/post/119158/
+	CREATED=1433831319
+	VISITED=1437975358
+	DESCRIPTION=Наверняка многим из гейм-девелоперов (или просто людям, увлекающимися програмировагнием) будет интересно услышать эти четыре важнейших алгоритма, решающих задачи о кратчайших путях.Сформулируем...
+	UNIQUEID=C3ECA4E00E7011E5874EB6FA01292661
+
+#URL
+	ID=533
+	NAME=Теория игр. История создания и применение / Блог компании IlkFinKom / Хабрахабр
+	URL=http://habrahabr.ru/company/ilkfinkom/blog/251017/
+	CREATED=1433831322
+	VISITED=1437975358
+	DESCRIPTION=Знакомьтесь, перед вами праотцы всего современного геймдева.Именно этим великим учёным игровая индустрия обязана самим фактом своего существования в современном виде. Они создали знаменитую...
+	UNIQUEID=C60B8D400E7011E5874FBC4FF016A32E
+
+#URL
+	ID=534
+	NAME=Теория игр: классические примеры в картинках и конкретных игровых модулях / Блог компании IlkFinKom / Хабрахабр
+	URL=http://habrahabr.ru/company/ilkfinkom/blog/252145/
+	CREATED=1433831325
+	VISITED=1437975358
+	DESCRIPTION=Наконец-то руки дошли продолжить рассказ о теории игр реальными примерами её использования в нашем проекте. Но перед этим осуществим небольшой экскурс по классификации игр, чтобы с помощью неё уже...
+	UNIQUEID=C7EB49C00E7011E58750E9B262AD124D
+
+#URL
+	ID=535
+	NAME=INTUIT.ru: Учебный курс - Практикум по методам построения алгоритмов
+	URL=http://old.intuit.ru/department/se/prmalgs/
+	CREATED=1434655129
+	DESCRIPTION=INTUIT.ru: учебный курс Практикум по методам построения алгоритмов
+	UNIQUEID=D92E2D3015EE11E58AE8D6C60ADFE067
+
+#URL
+	ID=536
+	NAME=Numbered triangles :: CheckiO
+	URL=http://www.checkio.org/mission/numbered-triangles/
+	CREATED=1415524272
+	VISITED=1434458800
+	UNIQUEID=4A7BA3123ECBF948B035718096720C70
+
+#URL
+	ID=537
+	NAME=One line Drawing :: CheckiO
+	URL=http://www.checkio.org/mission/one-line-drawing/
+	CREATED=1415524276
+	VISITED=1434571042
+	UNIQUEID=4BDDA8C4E0C5804287AA1DFC9C84BE3F
+
+#URL
+	ID=538
+	NAME=Блог «Админа-Маньяка»
+	URL=http://www.alsigned.ru/
+	CREATED=1354098525
+	VISITED=1356772572
+	UNIQUEID=B5BE12C2711E8541AAE46B72C404445B
+
+#URL
+	ID=539
+	NAME=Одмины шутят | Одминский блог
+	URL=http://odminblog.ru/partition/humour/
+	CREATED=1354182367
+	VISITED=1356772451
+	UNIQUEID=AEC7A08833B7124D9D47EC16D440AB6B
+
+#URL
+	ID=540
+	NAME=Download.com
+	URL=http://redir.opera.com/bookmarks/download
+	CREATED=1292768481
+	UNIQUEID=436959016AB1447DAE78DCDEC28FF961
+
+#FOLDER
+	ID=541
+	NAME=Программы
+	CREATED=1449469720
+	PARTNERID=opera-programsfolder
+	UNIQUEID=03274CBC39824E0396DEED7D8A0607D2
+
+-
+
+#FOLDER
+	ID=542
+	NAME=Игры
+	CREATED=1449469720
+	PARTNERID=opera-gamesfolder
+	UNIQUEID=5EB61AF02999497C91099ED9389B1492
+
+-
+
+#URL
+	ID=543
+	NAME=Яндекс.Панель
+	URL=http://op.yandex.ru/#1969060.1969061
+	CREATED=1392309691
+	VISITED=1392309693
+	DESCRIPTION=Боковая панель Яндекса с автоматически обновляющимися блоками
+	UNIQUEID=4C5A35064C45A543A01DFC92270C1904
+
+#URL
+	ID=544
+	NAME=Почта
+	URL=http://mail.yandex.ru/?win=86&clid=1969064
+	CREATED=1392309692
+	UNIQUEID=D3C77A675A28CE4F8999A149579F167D
+
+#URL
+	ID=545
+	NAME=Яндекс
+	URL=http://www.yandex.ru/?win=86&clid=1969064
+	CREATED=1392309692
+	UNIQUEID=F5038296DA11A84CBC515B6E2D93670B
+
+#URL
+	ID=546
+	NAME=Аналоги Windows-программ для Linux/UNIX | Записки программиста
+	URL=http://eax.me/unix-soft/
+	CREATED=1389694383
+	DESCRIPTION=В одном из своих предыдущих постов (см Чем хорош и чем плох Linux) я троллил о преимуществах рассуждал об отличиях операционных систем семейства UNIX ( Linux и
+	UNIQUEID=73F6C4607D0411E387DCB8156BCD0EB4
+
+#URL
+	ID=547
+	NAME=Yellow Leaf - Статьи - Организация трансляции потока с веб-камеры с помощью ffserver
+	URL=http://www.ylsoftware.com/news/554
+	CREATED=1389695374
+	UNIQUEID=C2A425607D0611E387DDC7F9D904AE55
+
+#URL
+	ID=548
+	NAME=Потоковое видео средствами ffserver & ffmpeg / Хабрахабр
+	URL=http://habrahabr.ru/post/78677/
+	CREATED=1389695758
+	VISITED=1389856940
+	DESCRIPTION=Для организации трансляции нам потребуется:LinuxFFmpeg (включает в себя ffserver)ТеорияFFmpeg — это набор свободных библиотек с открытым...
+	UNIQUEID=A7D872307D0711E387DEAFCF862259E1
+
+#URL
+	ID=549
+	NAME=Как устанавливать программы в PuppyRus [Справочная система PuppyRus Linux]
+	URL=http://docs.puppyrus.org/tip/pet-installation-compilation
+	CREATED=1389847892
+	VISITED=1389856390
+	UNIQUEID=DEF9DE307E6911E38740F3B0A17428D8
+
+#URL
+	ID=550
+	NAME=Компиляция и установка программ из исходников | Русскоязычная документация по Ubuntu
+	URL=http://help.ubuntu.ru/wiki/programs_installation
+	CREATED=1389847897
+	VISITED=1446281869
+	UNIQUEID=E1AA58307E6911E38741803BD47624A6
+
+#URL
+	ID=551
+	NAME=Находки в сети за декабрь 2013 | Записки программиста
+	URL=http://eax.me/links-issue-12/
+	CREATED=1389847930
+	VISITED=1389856519
+	DESCRIPTION=В этом выпуске: Haskell и Erlang под JVM, как написать свой отладчик, какой программой записывать разговоры по Skype, и не только. Предыдущие выпуски: ноябрь 20
+	UNIQUEID=F5A7AF407E6911E3874281DF0969A1DE
+
+#URL
+	ID=552
+	NAME=Большой брат в Linux или видеонаблюдение своими руками / Хабрахабр
+	URL=http://habrahabr.ru/post/72491/
+	CREATED=1389847937
+	VISITED=1389856582
+	DESCRIPTION=Большой брат в Linux или видеонаблюдение своими руками.После переезда в новый офис, дабы не расслаблять сотрудников, было решеноустановить систему видеонаблюдения. Но, как обычно, основным...
+	UNIQUEID=F9A569C07E6911E38743C53D261B5E2B
+
+#URL
+	ID=553
+	NAME=▶ Разблокировка ZTE MF192 - YouTube
+	URL=http://www.youtube.com/watch?v=JHphBcH9lHM
+	CREATED=1390192957
+	VISITED=1390281457
+	DESCRIPTION=Видео о бесплатной разлочке модема ZTE MF192 от МТС, так же подходит и для Билайна Программа анлокер - http://3ginfo.ru/downloads518.html Классный сайт по ра...
+	UNIQUEID=49CC8980818D11E387D4E98730614EFA
+
+#URL
+	ID=554
+	NAME=TP-LINK TL-MR3420 v2.2 which OPENWrt? (Page 1) — Hardware Hacking — OpenWrt
+	URL=https://forum.openwrt.org/viewtopic.php?id=48340
+	CREATED=1390198657
+	DESCRIPTION=TP-LINK TL-MR3420 v2.2 which OPENWrt? (Page 1) — Hardware Hacking — OpenWrt — Wireless Freedom
+	UNIQUEID=8F00D530819A11E387D5D2D7B284839F
+
+#URL
+	ID=555
+	NAME=Michael V. Pudeev - ADSL модем D-Link DSL-2640U. Часть VI. Подключение JTAG кабеля.
+	URL=http://pudeev.livejournal.com/33915.html?thread=122747
+	CREATED=1390198669
+	VISITED=1390198700
+	UNIQUEID=95F5D6B0819A11E387D69A6E38F846D6
+
+#URL
+	ID=556
+	NAME=[Инфо] Лечение DSL-2640U [Архив] - uForum.uz
+	URL=http://uforum.uz/archive/index.php/t-12392.html
+	CREATED=1390198676
+	DESCRIPTION=[Архив] [Инфо] Лечение DSL-2640U D-Link
+	UNIQUEID=9A8E98B0819A11E387D7AC1CCAFE79DE
+
+#URL
+	ID=557
+	NAME=Michael V. Pudeev
+	URL=http://pudeev.livejournal.com/tag/bcm6348
+	CREATED=1390198921
+	UNIQUEID=2C9A4AB0819B11E387D8AE1ED1F79889
+
+#URL
+	ID=558
+	NAME=Michael V. Pudeev - ADSL модем D-Link DSL-2640U. Часть VI. Подключение JTAG кабеля.
+	URL=http://pudeev.livejournal.com/33915.html
+	CREATED=1390199171
+	UNIQUEID=C121F930819B11E387D9E2F1FDA97FEB
+
+#URL
+	ID=559
+	NAME=TP-Link MR3220V2 (Page 1) — Hardware Hacking — OpenWrt
+	URL=https://forum.openwrt.org/viewtopic.php?id=38896
+	CREATED=1390199645
+	DESCRIPTION=TP-Link MR3220V2 (Page 1) — Hardware Hacking — OpenWrt — Wireless Freedom
+	UNIQUEID=DC191740819C11E387DA8C0215BED045
+
+#URL
+	ID=560
+	NAME=Dir-300 B1 MMC Hack (Page 1) — Hardware Hacking — OpenWrt
+	URL=https://forum.openwrt.org/viewtopic.php?id=36986
+	CREATED=1390199997
+	DESCRIPTION=Dir-300 B1 MMC Hack (Page 1) — Hardware Hacking — OpenWrt — Wireless Freedom
+	UNIQUEID=ADB3FEF0819D11E387DBC25959630D51
+
+#URL
+	ID=561
+	NAME=D-LINK DIR-300 Serial Port and SD mod | Tinyhack.com
+	URL=http://tinyhack.com/2010/04/04/d-link-dir-300-serial-port-and-sd-mod/
+	CREATED=1390200814
+	UNIQUEID=94B04510819F11E387DCCE1BB7BCF53C
+
+#URL
+	ID=562
+	NAME=Управление серво-приводами в OpenWRT | Hardware solutions for OpenWrt
+	URL=http://h-wrt.com/ru/doc/sp
+	CREATED=1390207866
+	UNIQUEID=FFB1821081AF11E387DDDE83873C5A4E
+
+#URL
+	ID=563
+	NAME=Ставим OpenWrt на миниатюрный WiFi роутер TP-LINK TL-MR3020 - Форум обсуждения оборудования "Умный дом"
+	URL=http://cyber-place.ru/showthread.php?t=343
+	CREATED=1390207914
+	DESCRIPTION= Ставим OpenWrt на миниатюрный WiFi роутер TP-LINK TL-MR3020 OpenWRT
+	UNIQUEID=1C8E93A081B011E387DEEBC4601995F0
+
+#URL
+	ID=564
+	NAME=OpenWrt — roboforum.ru Wiki
+	URL=http://roboforum.ru/wiki/OpenWrt
+	CREATED=1390208178
+	VISITED=1390983993
+	UNIQUEID=B9B1C7B081B011E387DF86A0F9481826
+
+#URL
+	ID=565
+	NAME=TL-WR703N Clone With OPENWRT, USB Camera Support, TTL UART
+	URL=http://www.cutedigi.com/wireless/wifi/tl-wr703n-clone-with-openwrt-usb-camera-support-ttl-uart.html
+	CREATED=1390208518
+	DESCRIPTION=TL-WR703N Clone With OPENWRT, USB Camera Support, TTL UART
+	UNIQUEID=84B33B6081B111E387E0F927514229FD
+
+#URL
+	ID=566
+	NAME=DSL 2640U неправильно прошит [Архив] - Российский GSM Форум - GSMForum.SU
+	URL=http://www.gsmforum.su/archive/index.php/t-78184.html
+	CREATED=1390212052
+	VISITED=1390983983
+	DESCRIPTION=[Архив]  DSL 2640U неправильно прошит Ремонт и настройка ADSL модемов
+	UNIQUEID=BEEE2DA081B911E387E1F5AD1F75FAF7
+
+#URL
+	ID=567
+	NAME=DSL роутер D-link D2650u для не-DSL провайдера / Микрохабр
+	URL=http://m.habrahabr.ru/post/124744/
+	CREATED=1390212464
+	VISITED=1390984052
+	UNIQUEID=B4D1B7F081BA11E387E2A95A1DB5ADC5
+
+#URL
+	ID=568
+	NAME=wierus - Как я возвращал к жизни D-Link DSL-2640U rev. C2
+	URL=http://wierus.livejournal.com/3662.html
+	CREATED=1390217151
+	VISITED=1390984064
+	UNIQUEID=9E3CC51081C511E387E4F5DAC408FCDD
+
+#URL
+	ID=569
+	NAME=Dlink DSL-2500U/BRU/D H/W Ver. : D1
+	URL=http://adslhw.pskov.ru/dsl2500ubrud/
+	CREATED=1390217358
+	VISITED=1390983985
+	UNIQUEID=1973960081C611E387E5FC4DC2EA7F80
+
+#URL
+	ID=570
+	NAME=Michael V. Pudeev
+	URL=http://pudeev.livejournal.com/
+	CREATED=1390217362
+	VISITED=1390217505
+	UNIQUEID=1C1DF58081C611E387E6CC0C19153734
+
+#URL
+	ID=571
+	NAME=Michael V. Pudeev - ADSL модем D-Link DSL-2640U. Часть VI. Подключение JTAG кабеля.
+	URL=http://pudeev.livejournal.com/33915.html#cutid1
+	CREATED=1390218361
+	VISITED=1390984064
+	UNIQUEID=6F44829081C811E387E7D77CE5030ACD
+
+#URL
+	ID=572
+	NAME=Большой брат в Linux или видеонаблюдение своими руками / Микрохабр
+	URL=http://m.habrahabr.ru/post/72491/
+	CREATED=1390281758
+	VISITED=1390983989
+	UNIQUEID=0ABD3120825C11E3880EB40CAE555B1F
+
+#URL
+	ID=573
+	NAME=Потоковое видео средствами ffserver & ffmpeg / Микрохабр
+	URL=http://m.habrahabr.ru/post/78677/
+	CREATED=1390991541
+	UNIQUEID=A2A53D0088D011E3874CE841854B1C03
+
+#URL
+	ID=574
+	NAME=PuppyLinux: Puppy on ARM (PARM)
+	URL=http://puppylinux.org/wikka/PARM
+	CREATED=1390991549
+	DESCRIPTION=Puppy Linux Documentation Wiki - it is a Wikka
+	UNIQUEID=A7825B0088D011E3874DD309AAA41913
+
+#URL
+	ID=575
+	NAME=Видеорегистратор дома от жуликов и автохулиганов - Форум клуба ВАЗ 2104
+	URL=http://www.vaz04.ru/forum/61-5781-1
+	CREATED=1390991583
+	VISITED=1391423985
+	DESCRIPTION=Форум ВАЗ 2104, Все о тюнинге и ремонте ВАЗ 2104, ВАЗ 2104, ВАЗ 21043
+	UNIQUEID=BBAC194088D011E3874ED92B7B3C2970
+
+#URL
+	ID=576
+	NAME=/dev/head — Видеонаблюдение на основе роутера
+	URL=http://devhead.ru/read/videonablyudenie-na-osnove-routera
+	CREATED=1390991586
+	VISITED=1392092798
+	DESCRIPTION=Статьи и видео уроки
+	UNIQUEID=BD7FC7D088D011E3874FD5C9D18E8C23
+
+#URL
+	ID=577
+	NAME=Подключаем USB веб камеру (WebCam) в OpenWrt - Страница 10 - Форум обсуждения оборудования "Умный дом"
+	URL=http://cyber-place.ru/showthread.php?t=366&page=10
+	CREATED=1390991591
+	VISITED=1392092799
+	DESCRIPTION=Страница 10- Подключаем USB веб камеру (WebCam) в OpenWrt OpenWRT
+	UNIQUEID=C05751D088D011E38750D76BFF25E3CB
+
+#URL
+	ID=578
+	NAME=Федеральный закон от 04.05.2011 N 99-ФЗ "О лицензировании отдельных видов деятельности" (с изменениями и дополнениями)
+	URL=http://base.garant.ru/12185475/
+	CREATED=1391584718
+	UNIQUEID=BBABB4908E3511E387EFB068ED99B5AF
+
+#URL
+	ID=579
+	NAME=Список видов специальных технических средств, предназначенных для негласного получения информации, ввоз и вывоз которых подлежат лицензированию
+	URL=http://www.rg.ru/oficial/doc/postan_rf/214_pril_2.htm
+	CREATED=1391584721
+	UNIQUEID=BDA513908E3511E387F0CAAAAF4E026E
+
+#URL
+	ID=580
+	NAME=Федеральный закон Российской Федерации от 7 июня 2007 г. N 99-ФЗ "О ратификации Соглашения между государствами - участниками Североатлантического договора и другими государствами, участвующими в программе "Партнерство ради мира", о статусе их Сил от 19 июня 1995 года и Дополнительного протокола к нему" — Российская Газета
+	URL=http://www.rg.ru/2007/06/16/partnesrstvo-doc.html
+	CREATED=1391585300
+	DESCRIPTION=Федеральный закон Российской Федерации от 7 июня 2007 г. N 99-ФЗ "О ратификации Соглашения между государствами - участниками Североатлантического договора и другими государствами, участвующими в программе "Партнерство ради мира", о статусе их Сил от 19 июня 1995 года и Дополнительного протокола к нему"
+	UNIQUEID=165F0BC08E3711E387F1DB3C8EB5E98D
+
+#URL
+	ID=581
+	NAME=Путин скрывает зловещий договор с НАТО? - новость из рубрики Политика, актуальная информация, обсуждение новости, дискуссии на Newsland.
+	URL=http://newsland.com/news/detail/id/859972/
+	CREATED=1391585329
+	VISITED=1391587616
+	DESCRIPTION=Мы пропустили уникальную сенсацию. В России приняты два действующих федеральных  закона с одинаковыми номерами, но разных по сути и сфере... - читайте подробнее на Newsland.
+	UNIQUEID=27CCDE508E3711E387F2CF8EFA0D72C2
+
+#URL
+	ID=582
+	NAME=Постановление Правительства РФ от 01.07.1996 N 770 "Об утверждении Положения о лицензировании деятельности физических и юридических лиц, не уполномоченных на осуществление оперативно-розыскной деятельности, связанной с разработкой, производством, реализацией, приобретением в целях продажи, ввоза в Российскую Федерацию и вывоза за ее пределы специальных технических средств, предназначенных для негласного получения информации, и перечня видов специальных технических средств, предназначенных для негласного получения информации в процессе осуществления оперативно-розыскной деятельности" (с изменениями и дополнениями)
+	URL=http://base.garant.ru/10135354/
+	CREATED=1391586682
+	UNIQUEID=4E7E15208E3A11E387F3D7F849852FFE
+
+#URL
+	ID=583
+	NAME=http://asozd2.duma.gov.ru/main.nsf/(printzp)?OpenAgent&RN=410940-4&123
+	URL=http://asozd2.duma.gov.ru/main.nsf/(printzp)?OpenAgent&RN=410940-4&123
+	CREATED=1391587841
+	UNIQUEID=00E3B8808E3D11E387F4B5B32CB44C5B
+
+#URL
+	ID=584
+	NAME=ЭРК на законопроект № 410940-4
+	URL=http://apriatkin-lux.narod.ru/ERK.htm
+	CREATED=1391587987
+	UNIQUEID=585324C08E3D11E387F5F7512E203662
+
+#FOLDER
+	NAME=Trash
+	UNIQUEID=4E1601F6F30511DB9CA51FD19A7AAECA
+	TRASH FOLDER=YES
+
+-
+
+#URL
+	ID=585
+	NAME=OR-WRT 0.75alpha — roboforum.ru Wiki
+	URL=http://roboforum.ru/wiki/OR-WRT_0.75alpha
+	CREATED=1392007813
+	UNIQUEID=D4115530920E11E387FDBFDD21DD79BE
+
+#URL
+	ID=586
+	NAME=/dev/head — Openwrt сборка из исходников и прошивка Dir-320 A1
+	URL=http://devhead.ru/read/openwrt-sborka-iz-isxodnikov-i-proshivka-dir-320-a1
+	CREATED=1392007818
+	VISITED=1392092569
+	DESCRIPTION=Статьи и видео уроки
+	UNIQUEID=D6BBB4B0920E11E387FE8198E813217B
+
+#URL
+	ID=587
+	NAME=Пульт дистанционного управления автомобилем за 20 долларов
+	URL=http://www.xakep.ru/post/62019/
+	CREATED=1392021608
+	DESCRIPTION=Сайт журнала «Хакер» : самый авторитетный ресурс рунета, посвященный вопросам информационной безопасности. Пульт дистанционного управления автомобилем за 20 долларов
+	UNIQUEID=F2B165F0922E11E387FFBB1D826B5E1A
+
+#URL
+	ID=588
+	NAME=This iPhone-Sized Device Can Hack A Car, Researchers Plan To Demonstrate - Forbes
+	URL=http://www.forbes.com/sites/andygreenberg/2014/02/05/this-iphone-sized-device-can-hack-a-car-researchers-plan-to-demonstrate/
+	CREATED=1392021757
+	VISITED=1392021803
+	DESCRIPTION=Auto makers have long downplayed the threat of hacker attacks on their cars and trucks, arguing that their vehicles' increasingly-networked systems are protected from rogue wireless intrusion. Now two researchers plan to show that a few minutes alone with a car and a tiny, cheap device can give digital saboteurs [...]
+	UNIQUEID=4B6D0140922F11E38800A46364CEA411
+
+#URL
+	ID=589
+	NAME=Hackers Reveal Nasty New Car Attacks--With Me Behind The Wheel (Video) - Forbes
+	URL=http://www.forbes.com/sites/andygreenberg/2013/07/24/hackers-reveal-nasty-new-car-attacks-with-me-behind-the-wheel-video/
+	CREATED=1392021912
+	VISITED=1392022032
+	DESCRIPTION=A pair of Pentagon-funded hackers prove it's possible to take control of your car with a few keystrokes. Time for Detroit to wake up.
+	UNIQUEID=A7594310922F11E38801BF1FD84BC300
+
+#URL
+	ID=590
+	NAME=Главный инструмент фрикера. Великий и могучий UART
+	URL=http://www.xakep.ru/magazine/xa/125/114/1.asp
+	CREATED=1392027905
+	VISITED=1392092811
+	DESCRIPTION=Сайт журнала «Хакер» : самый авторитетный ресурс рунета, посвященный вопросам информационной безопасности.
+	UNIQUEID=9B8DAAE0923D11E38807C4E759DDF9F9
+
+#FOLDER
+	ID=591
+	NAME=Opera Mini
+	CREATED=1449469720
+	TARGET=mini
+	MOVE_IS_COPY=YES
+	SEPARATOR_ALLOWED=NO
+	UNIQUEID=5D155A8901424937B9DA3D7F3BE9C268
+
+#URL
+	ID=592
+	NAME=Pansh Aurora 12 м [Архив] - :: ЗМЕЙ|РУ :: КАЙТ|КЛУБ ::
+	URL=http://www.zmey.ru/forum/archive/index.php/t-19042.html?s=2d3aa589a2da9e54ed4d494ac183976c
+	CREATED=1392032354
+	VISITED=1406521692
+	UNIQUEID=F82D6D7E866B45279104E6C723BCA1F3
+
+#URL
+	ID=593
+	NAME=Подключение web-камеры Genius I-Look 111 под Linux / Видеонаблюдение дома своими руками. Настройка под Linux / Умный дом сво...
+	URL=http://ab-log.ru/smart-house/video_camera_security/i-look_111_linux
+	CREATED=1392032354
+	UNIQUEID=21724C9C51274DD2A38AC90F837771F3
+
+#URL
+	ID=594
+	NAME=Подключение web-камеры Logitech C250 под Linux / Видеонаблюдение дома своими руками. Настройка под Linux / Умный дом своими ...
+	URL=http://ab-log.ru/smart-house/video_camera_security/logitech-c250-linux
+	CREATED=1392032354
+	UNIQUEID=469EED00536F465D8D06A0CBC2C158E0
+
+#URL
+	ID=595
+	NAME=Видеонаблюдение через Интернет с записью архива / Видеонаблюдение дома своими руками. Настройка под Linux / Умный дом своими...
+	URL=http://ab-log.ru/smart-house/video_camera_security/archive
+	CREATED=1392032354
+	UNIQUEID=769F3ABF622D47999FC76A99F33B6856
+
+#URL
+	ID=596
+	NAME=Слушаем микрофоны в доме или домашнее Интернет-радио своими руками / Построение медиа/файл сервера на базе Linux / Умный дом...
+	URL=http://ab-log.ru/smart-house/mce/audio-streaming
+	CREATED=1392032354
+	UNIQUEID=76D1472D80FE4A918E79034A75B1602D
+
+#URL
+	ID=597
+	NAME=Кайты парафойлы "PANSH" :: Paraplan.Ru
+	URL=https://paraplan.ru/forum/topic/105528
+	CREATED=1392032354
+	UNIQUEID=8652743CAE0F4BFD8BB9C1B6A5617E34
+
+#URL
+	ID=598
+	NAME=:: ЗМЕЙ|РУ :: КАЙТ|КЛУБ ::
+	URL=feed://view/0//http://zmey.ru/forum/external.php?type=RSS2
+	CREATED=1392032354
+	UNIQUEID=7FFAB4A9A1F345ACB981396C396B0EE9
+
+#URL
+	ID=599
+	NAME=Pansh Aurora 12 м [Архив] - :: ЗМЕЙ|РУ :: КАЙТ|КЛУБ ::
+	URL=http://zmey.ru/forum/archive/index.php/t-19042.html?s=2d3aa589a2da9e54ed4d494ac183976c
+	CREATED=1392032354
+	UNIQUEID=C367A5AFCAF0445893715366007667F8
+
+#URL
+	ID=600
+	NAME=Шпаргалка по Линукс - линукс - Советы - Каталог статей - this-is-my-site(это мой сайт)
+	URL=http://this-is-my-site.do.am/publ/sovety/linuks/linuksovye_khitrosti/4-1-0-18
+	CREATED=1392032354
+	UNIQUEID=7E00573B214F43B8B912D763AFD9688E
+
+#URL
+	ID=601
+	NAME=Complete Linux Installer - 4PDA
+	URL=http://4pda.ru/forum/index.php?showtopic=349318
+	CREATED=1392032354
+	UNIQUEID=B37408A4F0F343C1ACB9AC2DDE630CEF
+
+#URL
+	ID=602
+	NAME=Налог на аренду.Что нужно знать, сдавая квартиру
+	URL=http://prodam-kvartiru1.ru/nalog-arenda.php
+	CREATED=1392610024
+	UNIQUEID=034C309300234E38B50CF2342A06443B
+
+#URL
+	ID=603
+	NAME=Как не платить налог с аренды квартиры
+	URL=http://www.therichtimes.ru/post/kak_ne_platit_nalog_s_arendy_kvartiry/
+	CREATED=1392610024
+	UNIQUEID=8146C1ADE2DC4A679198E12B6C3F3412
+
+#URL
+	ID=604
+	NAME=Настройка сервера SSH (теория и практика) | Программное обеспечение | Статьи | Библиотека Линуксцентра | Linuxcenter.Ru – эк...
+	URL=http://www.linuxcenter.ru/lib/articles/soft/ssh.phtml
+	CREATED=1392640874
+	VISITED=1437380138
+	UNIQUEID=153D03A75CA04CE0B41F95985DA97BEB
+
+#URL
+	ID=605
+	NAME=mitrio: Трансформационные тренинги личности. «Зомберкоманды»
+	URL=http://mitrio.livejournal.com/133408.html
+	CREATED=1449469720
+	VISITED=1400520949
+	UNIQUEID=C181CFDED4694CC18151802CF9473E92
+
+#URL
+	ID=606
+	NAME=Лайфспринг (Lifespring) - правда о методике и её результаты
+	URL=http://ostorojno-treningi.ru/lifespring
+	CREATED=1449469720
+	VISITED=1400520946
+	UNIQUEID=5CA32A9BC198467C8B8D22CA6DDD2C6D
+
+#URL
+	ID=607
+	NAME=Кожа в розницу| Купить кожу в розницу в Москве| Кожа - цена за метр
+	URL=http://kozha-karista.ru/kozha-v-roznicu/
+	CREATED=1449469720
+	UNIQUEID=E80C4829F17A4C6F81E5E387A877823A
+
+-
+
+#FOLDER
+	ID=479
+	NAME=Trash
+	CREATED=1449469720
+	TRASH FOLDER=YES
+	DELETABLE=NO
+	UNIQUEID=14C645A5B8A3470FB3B52CC32C97E2B8
+
+-
+
+#URL
+	ID=608
+	NAME=2885 (895×576)
+	URL=http://www.kiting.org.ua/forum/index.php/fa/2885/
+	CREATED=1395315789
+	UNIQUEID=CF905220B02411E3883FF61765739282
+
+#URL
+	ID=609
+	NAME=RK-stud.ru / ОКСО из веб-камеры
+	URL=http://rk-stud.ru/2013/04/okso-iz-veb-kamery/
+	CREATED=1396250422
+	UNIQUEID=EBE55730B8A411E3882AA15B17236D9F
+
+#URL
+	ID=610
+	NAME=RK-stud.ru / Самодельный кайтборд
+	URL=http://rk-stud.ru/2010/03/samodelnyj-kajtbord/
+	CREATED=1396257346
+	VISITED=1406206210
+	UNIQUEID=0B41CD60B8B511E388308913E0FD9E02
+
+#URL
+	ID=611
+	NAME=Работа с файлами | Открытие файлов
+	URL=file://localhost/mnt/sda5/work/Book/Программирование/bookphp/gl6_1.php.htm
+	CREATED=1397462896
+	UNIQUEID=EEDD6EC0C3AB11E38841F9A857659756
+
+#URL
+	ID=612
+	NAME=Ошибка
+	URL=http://ostorojno-treningi.ru/zeora
+	CREATED=1400476495
+	UNIQUEID=83A2EE80DF1411E38843EFB2852103EE
+
+#URL
+	ID=613
+	NAME=Ошибка
+	URL=http://yury-shevchenko.livejournal.com/31010.html
+	CREATED=1400476500
+	UNIQUEID=86AB4C80DF1411E38844A74D0BF0740E
+
+#URL
+	ID=614
+	NAME=Результат поиска Google для http://www.aya-shop.ru/userfiles/middle/6357_thule-Boxlift-571.gif
+	URL=http://www.google.ru/imgres?imgurl=http%3A%2F%2Fwww.aya-shop.ru%2Fuserfiles%2Fmiddle%2F6357_thule-Boxlift-571.gif&imgrefurl=http%3A%2F%2Fwww.aya-shop.ru%2Findex.php%3Fnew_div_id%3D1905&h=361&w=500&tbnid=lF9xQ7EA-hOvDM%3A&zoom=1&docid=ItuH7kDsRsmiEM&ei=7PZ6U-iwNYeH4gSq8oDYCg&tbm=isch&client=opera&ved=0CCsQMygjMCM4ZA&iact=rc&uact=3&dur=518&page=4&start=102&ndsp=36
+	CREATED=1400568191
+	UNIQUEID=02FD1A90DFEA11E387EDCBB00DAAC433
+
+#URL
+	ID=615
+	NAME=Fiat Doblo Club > "колхоз", Или Сделано Своими Руками...
+	URL=http://www.doblo-club.ru/lofiversion/index.php?t2219-50.html
+	CREATED=1400568259
+	UNIQUEID=2B29D530DFEA11E387EEC1C2EC127CAB
+
+#URL
+	ID=616
+	NAME=Truck Tuning | Статьи | Гостиница на колесах
+	URL=http://www.truck-tuning.kiev.ua/news/how.html
+	CREATED=1400570196
+	UNIQUEID=AE1B1DB0DFEE11E387EFD230B6931CF6
+
+#URL
+	ID=617
+	NAME=Аквариум 300л и тумба под него своими руками - AQUAFANAT - форум аквариумистов
+	URL=http://www.aquafanat.com.ua/forum/index.php?showtopic=2944&st=60&p=97048
+	CREATED=1400571117
+	UNIQUEID=D2B99690DFF011E387F0DF6CE24976FD
+
+#URL
+	ID=618
+	NAME=Текучий стеллаж | The Office Post
+	URL=http://www.office-post.ru/6091
+	CREATED=1400571554
+	UNIQUEID=D77B6EF0DFF111E387F1FA58C51385FA
+
+#URL
+	ID=619
+	NAME=Поющие стулья | The Office Post
+	URL=http://www.office-post.ru/2041
+	CREATED=1400572230
+	DESCRIPTION=Отец–основатель группы поющих стульев Mikal Jessie Hameed ака M11X в шоу–бизнесе всю жизнь. Он снялся в рекламе йогуртов раньше, чем научился говорить.
+	UNIQUEID=6A89A760DFF311E387F2BD0F7563568A
+
+#URL
+	ID=620
+	NAME=Ретро писюк | The Office Post
+	URL=http://www.office-post.ru/5658
+	CREATED=1400572257
+	UNIQUEID=7A23F270DFF311E387F38E4B8958AAA9
+
+#URL
+	ID=621
+	NAME=Подъемные кровати. Top 10 моделей | MebelicA
+	URL=http://www.mebelica.ru/krovaty-otkidnie-dvuh-yarusnie/otkidnyie-krovati-top-10/
+	CREATED=1400763544
+	DESCRIPTION=Для нашего в основной своей массе очень малогабаритного жилья -- откидные кровати, (еще
+	UNIQUEID=DA484570E1B011E3881785AD2B48C284
+
+#URL
+	ID=622
+	NAME=Тормозная резинка для роликов Roll - Ролики, коньки купить в Москве
+	URL=http://rolsport.ru/katalog/product/723-tormoznaya-rezinka-dlya-rolikov-rollerblade.html#body
+	CREATED=1401090658
+	DESCRIPTION=Универсальная тормозная резинка для роликовых коньков Rollerblade. Устанавливается как на взрослые роликовые коньки  так и на детские.
+	UNIQUEID=79C31C50E4AA11E38800A342BD3021D4
+
+#URL
+	ID=623
+	NAME=Промзона: Удобная форма для льда - Компьютерра: Терралаб – гаджеты, тесты, обзоры устройств, рейтинг
+	URL=http://old.computerra.ru/terralab/itemofday/531915/
+	CREATED=1401142831
+	UNIQUEID=F2F47550E52311E38831B2FCB1D0941A
+
+#URL
+	ID=624
+	NAME=Cуперудобная форма для льда / Другие новости / GadgetBlog.ru
+	URL=http://www.gadgetblog.ru/2297/
+	CREATED=1401148180
+	DESCRIPTION=Может, это и не совсем технически навороченный гаджет, а скорее гаджет кухонный, но вещь интересная, а главное очень полезная. Вот, например, "выкалупливание" льда из формы у меня всегда было проблемой. И даже не из формы, а из пакетиков для льда.…
+	UNIQUEID=67229F40E53011E38832F1D9881C355A
+
+#URL
+	ID=625
+	NAME=Самодельные формы для льда
+	URL=http://usamodelkina.ru/520-samodelnye-formy-dlya-lda.html
+	CREATED=1401149971
+	DESCRIPTION=Недавно наткнулся на сайт с фотографиями оригинальных форм для льда. Очень сильно захотелось сделать себе такие же. Эти формы можно изготовить самостоятельно из силиконового герметика.Недавн
+	UNIQUEID=92F88EF0E53411E388338E39ADB4DA11
+
+#URL
+	ID=626
+	NAME=Fuss-Free Vertical Ice Trays - The Cube Tube by Quirky Makes Perfect Icy Blocks (GALLERY)
+	URL=http://www.trendhunter.com/trends/no-fuss-ice-cube-trays-the-cube-tube-by-quirky-makes-ice-effortless
+	CREATED=1401151319
+	VISITED=1401151396
+	DESCRIPTION=Fuss-Free Vertical Ice Trays - The Cube Tube is the perfect summer staple. The design by Quirky allows you to make ice with ease. The non-traditional vertical shape ensures that ...
+	UNIQUEID=B64F7730E53711E388349826E59A98D4
+
+#URL
+	ID=627
+	NAME=Day Impex Dry Ice Maker
+	URL=http://www.keison.co.uk/dayimpex_dryicemaker.shtml
+	CREATED=1401152171
+	DESCRIPTION=Day Impex Dry Ice Maker
+	UNIQUEID=B25BE3F0E53911E38835EB0B03F67247
+
+#URL
+	ID=628
+	NAME=Батарейки из свечки своими руками
+	URL=http://usamodelkina.ru/1232-batareyki-iz-svechki.html
+	CREATED=1401152597
+	DESCRIPTION=Видео рассказывает об интересном, увлекательном опыте, в нем показано, как сделать своими руками батарейку из свечек (3 вольта) в домашних условиях. Видео рассказывает об интересном, увлекат
+	UNIQUEID=AFC84B50E53A11E3883685B708AF567A
+
+#URL
+	ID=629
+	NAME=Йошимото куб своими руками
+	URL=http://usamodelkina.ru/1243-yoshimoto-kub-svoimi-rukami.html
+	CREATED=1401152621
+	DESCRIPTION=Видео урок, который покажет вам, как сделать куб трансформер своими руками из подручных средств. Видео урок, который покажет вам, как сделать куб трансформер своими руками из подручных средс
+	UNIQUEID=BE1F19E0E53A11E38837DCB6C94BF589
+
+#URL
+	ID=630
+	NAME=Чудо-трансформер из бумаги
+	URL=http://usamodelkina.ru/722-httpskyki-netrupodelkichudo-iz-bumagihtml.html
+	CREATED=1401152637
+	DESCRIPTION=Клёвая подёлка из бумаги, для развития фантазии. Множество идей из одной поделки. Мастрерим и импровизируем. Мне попался мастер класс, как изготовить данного трансформера из бумаги и очень п
+	UNIQUEID=C80C9AE0E53A11E388388727669E8D96
+
+#URL
+	ID=631
+	NAME=Трюки с бумагой
+	URL=http://usamodelkina.ru/791-tryuki-s-bumagoy.html
+	CREATED=1401152694
+	DESCRIPTION=Продолжительность: 0:54 Описание:  руки чешутся, а работать совсем не охота, тогда это для вас. Несложная поделка поможет вам с пользой скоротать время.  Расходные материалы: Лист бумаги А4
+	UNIQUEID=E9B23100E53A11E38839A75531383357
+
+#URL
+	ID=632
+	NAME=Светодиодные лампы из пробирок
+	URL=http://usamodelkina.ru/2176-svetodiodnye-lampy-iz-probirok.html
+	CREATED=1401152755
+	DESCRIPTION=Как вариант необычного украшения комнаты - это светодиодная лампа, сделанная своими ручками. Если Вам надоели некрасивые, устаревшие светильники, то как раз настало время заменить их на свет
+	UNIQUEID=0E035F20E53B11E3883AAFA700DA8C9C
+
+#URL
+	ID=633
+	NAME=Делаем сами Wifi-антенну с дальностью действия до 10 км
+	URL=http://usamodelkina.ru/2174-delaem-sami-wifi-antennu-s-dalnostyu-deystviya-do-10-km.html
+	CREATED=1401152845
+	DESCRIPTION=Купили wifi-роутер, а штатная антенна не бьет дальше квартиры? Сделайте сами wifi-антенну из простейших компонентов и она будет раздавать интернет на расстояние до 10 км! Купили wifi-роутер,
+	UNIQUEID=441F25D0E53B11E3883BC36C62C62E09
+
+#URL
+	ID=634
+	NAME=Самодельный проектор
+	URL=http://usamodelkina.ru/1073-samodelnyy-proektor.html
+	CREATED=1401156001
+	DESCRIPTION=После просмотренного видео вы сможете собрать проектор, который обойдется гораздо дешевле, чем купленный в магазине (примерно в 8 раз). После просмотренного видео вы сможете собрать проектор
+	UNIQUEID=9CFC9CD0E54211E3883CB8FBFEC65D64
+
+#URL
+	ID=635
+	NAME=Продам комплект Gastra Vision 12 м, доска для фрирайда | Кайт, Комплект (Россия) | Кайт барахолка Катуха
+	URL=http://katuha.com/-1/7-kayt-144-komplekt/60525-prodam-komplekt-gastra-vision-12-m-doska-dlya-frirayda.html
+	CREATED=1404133595
+	VISITED=1404191088
+	DESCRIPTION=Продаю полный комплект кайт, планка, трапеция, модная доска, насос.  Покупали сыну 3 года назад, но парень занимался только один сезон. Позанимался пару недель в Египте, все привезли домой и с  тех пор лежит в кладовке. Ткань идеальна, есть только небольш...
+	UNIQUEID=5D01C7B0005711E488BFF6A45B2D1CB9
+
+#URL
+	ID=636
+	NAME=NINJA PU14 оплетка для ручки ракетки для бадминтона - Синий (3 шт) - Бесплатная доставка - DealExtreme
+	URL=http://www.dx.com/ru/p/ninja-pu14-badminton-pu-over-grip-sweatband-blue-3-pcs-245043#.U7ZQ1ILWMtY
+	CREATED=1404457628
+	DESCRIPTION=Только US$5,99, купить NINJA PU14 оплетка для ручки ракетки для бадминтона - Синий (3 шт) от DealExtreme с бесплатной доставкой сейчас.
+	UNIQUEID=D0237C80034911E488C694D545AA8D64
+
+#URL
+	ID=637
+	NAME=Использование псевдокласса :nth-child - Демо-курсы - HTML Academy
+	URL=http://htmlacademy.ru/demos/2#step17
+	CREATED=1405331369
+	VISITED=1449243030
+	UNIQUEID=25F872600B3C11E487B8FD7E87C6BDF1
+
+#URL
+	ID=638
+	NAME=Популярно о псевдоэлементах :Before и :After
+	URL=http://m.habrahabr.ru/post/154319/
+	CREATED=1405672775
+	VISITED=1411537156
+	UNIQUEID=0C2321500E5711E48824EA3F0FF76119
+
+#URL
+	ID=639
+	NAME=Золотая медаль на Russian AI Cup 2013 — как это все было
+	URL=http://m.habrahabr.ru/post/206680/
+	CREATED=1406028604
+	UNIQUEID=86BF5BB0119311E487FEC51233519D3C
+
+#URL
+	ID=640
+	NAME=Купить стеклоткань Т 11, Т 13, Т 23: цена, характеристики.
+	URL=http://gidroisol.ru/catalog/steklotkan/steklotkan-T-11-T-13-T-23.html
+	CREATED=1406197209
+	VISITED=1406198390
+	DESCRIPTION=Важной отличительной чертой любой стеклоткани Т является ее абсолютная негорючесть, а также стойкость к высоким температурам (выдерживает термическое воздействие в 450 С
+	UNIQUEID=1739E640131C11E487E492F9E18FBC34
+
+#URL
+	ID=641
+	NAME=О компании "Комфайбер" :: Карбон - материалы и технологии
+	URL=http://www.carbon-info.ru/company/
+	CREATED=1406265476
+	VISITED=1409429584
+	DESCRIPTION=Продажа материалов для композита на основе углеткани (карбона), материалы для инфузии и вакуумирования
+	UNIQUEID=0954EC1013BB11E48835B8284F26D58F
+
+#URL
+	ID=642
+	NAME=Шитье моё - Блог - Богданович Константин
+	URL=http://bogdanovich.exogens.ru/blog/post/shite-moe/
+	CREATED=1406542704
+	VISITED=1406560059
+	UNIQUEID=825E1780164011E488408654DDB20384
+
+#URL
+	ID=643
+	NAME=Словесники - игра мастерской группы "Дыбра" - Серый балахон
+	URL=http://slovesniki.narod.ru/rules/balahon.htm
+	CREATED=1406542820
+	VISITED=1406560058
+	UNIQUEID=C70921E0164011E48841EC7BB2BAC58C
+
+#URL
+	ID=644
+	NAME=Ажур - как снимать мерки - мастерская ролевого костюма
+	URL=http://www.rpg.openwork.ru/size.php
+	CREATED=1406544919
+	VISITED=1406560058
+	DESCRIPTION=Ажур - мастерская ролевой одежды (прикида). Выкройки, инструкции и схемы как шить костюмы. Просто и понятно каждому. Заказать, купить или сшить самому. Ателье, студия. Как снять мерки, правильно измериться.
+	UNIQUEID=AA729CF0164511E4884294BA01435FDE
+
+#URL
+	ID=645
+	NAME=Коврик для переодевания гидрокостюма/сумка для мокрых вещей
+	URL=http://shop.gosurf.ru/products/kovrik_dlya_pereodevaniya_gidrokostyumasumka_dlya_mokryh_veschej
+	CREATED=1406545065
+	VISITED=1406694560
+	DESCRIPTION=Незаменимый аксессуар от FCS, если вы хотите чтобы ваш гидрокостюм всегда был чистый, а машина сухая.
+	UNIQUEID=016D2750164611E48843AA79B1BC05AC
+
+#URL
+	ID=646
+	NAME=Толстовка с капюшоном - построение выкройки.
+	URL=http://ni-tochka.ru/tolstovka-s-kapushonom.php
+	CREATED=1406545264
+	VISITED=1406561080
+	DESCRIPTION=Выкройка толстовки с капюшоном должна быть смоделирована по основе базового лекала мужской рубашки. Сначала сделаем описание модели, затем поменяем конструктивные линии базового лекала.
+	UNIQUEID=784B7390164611E48844D829C1E0D0A6
+
+#URL
+	ID=647
+	NAME=Выкройка туники с капюшоном
+	URL=http://kroy-master.ru/katalog/vykroyka-tuniki/vykroyka-tuniki-s-kapyushonom/
+	CREATED=1406545561
+	VISITED=1406560054
+	DESCRIPTION=Каталог готовых лекал. Выкройки туник - лекала, выкройка туники с капюшоном на заказ Туника прямого силуэта с капюшоном, отрезная по линии груди, подрезы уходят в боковые швы и образуют карманы.
+	UNIQUEID=28E590A0164711E48845CF7D4AAB7E59
+
+#URL
+	ID=648
+	NAME=Burda 11/2007. Онлайн-версия журнала по шитью.
+	URL=http://www.osinka.ru/Zhurnaly/2007/burda/burda_11/slides/14.html
+	CREATED=1406545582
+	VISITED=1406560053
+	UNIQUEID=357078D0164711E48846C3296A944C3F
+
+#URL
+	ID=649
+	NAME=Burda 12/2009. Онлайн-версия журнала по шитью.
+	URL=http://www.osinka.ru/Zhurnaly/2009/burda/burda_12/slides/11.html
+	CREATED=1406545617
+	VISITED=1406560053
+	UNIQUEID=4AB20FB0164711E48847CE4A0EA6D9D1
+
+#URL
+	ID=650
+	NAME=Мужская кофта с меховым капюшоном ворот на пуговицах производство Корея
+	URL=http://www.kawaicat.ru/catalog/view/171/
+	CREATED=1406545921
+	VISITED=1406560056
+	DESCRIPTION=Мужская кофта с меховым капюшоном ворот на пуговицах производство Корея
+	UNIQUEID=FFC44760164711E48848B13996626BB0
+
+#URL
+	ID=651
+	NAME=Одежда Mystic 2014 Poncho Blue
+	URL=http://www.kite.ru/catalog/gidroodezhda/odezhda_mystic_2014_poncho_blue__66739/
+	CREATED=1406546272
+	VISITED=1406560055
+	UNIQUEID=D0FA52C0164811E48849E472DBF82B5E
+
+#URL
+	ID=652
+	NAME=Пончо Mystic Poncho Deluxe\
+	URL=http://www.kite.ru/catalog/gidroodezhda/poncho_mystic_poncho_deluxe__65195/
+	CREATED=1406546502
+	VISITED=1406560055
+	UNIQUEID=5A14BE10164911E4884AFE473C1E0616
+
+#URL
+	ID=653
+	NAME=Стена | ВКонтакте
+	URL=http://vk.com/wall-702865_10157
+	CREATED=1406546678
+	VISITED=1406694711
+	UNIQUEID=C29F21F0164911E4884BD730AAED5FCB
+
+#URL
+	ID=654
+	NAME=Ткани для термобелья - ООО «Лотос»
+	URL=http://lotos-tkani.ru/tkani_dlya_termobelya/
+	CREATED=1406552920
+	DESCRIPTION=Ткани для термобелья  представлены в ассортименте в компании «Лотос». Продукция реализуется с доставкой по Москве
+	UNIQUEID=4B412090165811E48652E7244498E298
+
+#URL
+	ID=655
+	NAME=Компания Ласкер. Контакты, схема проезда. | Компания Ласкер
+	URL=http://www.600ka.ru/kontaktyi.html
+	CREATED=1406608998
+	DESCRIPTION=Компания Ласкер. Схема проезда, телефон, адрес.
+	UNIQUEID=DC8060C016DA11E4884EC1B1611844BC
+
+#URL
+	ID=656
+	NAME=Контактная информация Дентекс Галант. Оптом со склада в Москве качественные ПУ и ПВХ ткани, подкладочные ткани, швейная фурнитура.
+	URL=http://denteks.ru/contacts
+	CREATED=1406609095
+	VISITED=1406611344
+	DESCRIPTION=Контактная информация Дентекс Галант
+	UNIQUEID=1689402016DB11E4884FC69C6EEB266F
+
+#URL
+	ID=657
+	NAME=Контакты ООО «Атлантика»
+	URL=http://atlanttkani.ru/contact.php
+	CREATED=1406609545
+	VISITED=1406609930
+	DESCRIPTION=Ткани и фурнитура для производств
+	UNIQUEID=2292A6D016DC11E488509631572538E8
+
+#URL
+	ID=658
+	NAME=Бокс Atlant Classic 430 черный, 8545, 897436: характеристики, отзывы, фото, цена – интернет-магазин Юлмарт
+	URL=http://www.ulmart.ru/goods/897436?from=gmc_moscow&utm_medium=cpc&utm_source=google&utm_content=car_boxes&utm_campaign=nosale&utm_term=897436&gclid=CKaeu73o7L8CFYk7Mgod8FkArQ
+	CREATED=1406717829
+	VISITED=1438000744
+	DESCRIPTION=Бокс Atlant Classic 430 черный, 8545 за 8900 руб. Покупайте с выгодой - Бокс Atlant Classic 430 черный, 8545 в Юлмарт. Гарантия 12 мес. Артикул: 897436.
+	UNIQUEID=40B5845017D811E4871EA8DAE1635AD9
+
+#FOLDER
+	ID=659
+	NAME=Часы
+	CREATED=1449469720
+	UNIQUEID=631399A0398511E4940BEAEC390EE5C5
+
+#URL
+	ID=660
+	NAME=Умные часы Sony Smartwatch 2 SW2 / Хабрахабр
+	URL=http://habrahabr.ru/post/216011/
+	CREATED=1410420620
+	VISITED=1410496304
+	DESCRIPTION=Несмотря на то, что сейчас наручные часы рассматриваются больше как украшение, а не как прибор для измерения времени, я, скорее, выйду из дома без мобильного телефона, чем без часов. Привык я к...
+	UNIQUEID=7BFB7C30398511E4940D8A8DD22163DD
+
+#URL
+	ID=661
+	NAME=Пишем приложения для Sony SmartWatch и SmartWatch 2
+	URL=http://m.habrahabr.ru/post/210898/
+	CREATED=1410420627
+	VISITED=1410495915
+	UNIQUEID=806D2E30398511E4940EAB6D2AA58651
+
+#URL
+	ID=662
+	NAME=Напульсники - купить напульсник для часов
+	URL=http://yshio.ru/category/gruppa-3/napulsniki
+	CREATED=1410420638
+	VISITED=1410495924
+	DESCRIPTION=Современные напульсники для часов от известных брендов – интернет-магазин YSHIO предлагает ознакомиться с широким ассортиментом продукции, а наши консультанты всегда помогут вам с выбором.
+	UNIQUEID=86E78170398511E4940F8A933AE57CE7
+
+#URL
+	ID=663
+	NAME=Просмотр темы - Первый ремешок-напульсник для часовARNESI.ru
+	URL=http://www.arnesi.ru/viewtopic.php?f=21&t=1338
+	CREATED=1410420660
+	VISITED=1410495914
+	UNIQUEID=93DC4F00398511E49411EBE637AAED10
+
+#URL
+	ID=664
+	NAME=DeadRat - Часы в стиле стимпанк (и процесс изготовления)
+	URL=http://evilratalex.livejournal.com/3716.html?thread=2436
+	CREATED=1410420693
+	VISITED=1410496296
+	DESCRIPTION=  Давно хотел сделать что-нибудь сказочно стимпанковское, но всегда останавливал недостаток материалов и запчастей. Помощь пришла неожиданно. Отец  …
+	UNIQUEID=A7E00EB0398511E49413F7D50F7A9941
+
+#URL
+	ID=665
+	NAME=Ремешок с напульсником для часов Stailer
+	URL=http://ws12.ru/magazin/product/remeshok-s-napulsnikom-dlya-chasov-stailer-1
+	CREATED=1410420797
+	VISITED=1410495947
+	DESCRIPTION=Ремешок с напульсником для часов Stailer
+	UNIQUEID=E5E9B5D0398511E4941489D85F4A642A
+
+#URL
+	ID=666
+	NAME=Спецзаказ Watch.ru - рестайлинг - Часовой форум Watch.Ru
+	URL=http://forum.watch.ru/showthread.php?t=33600
+	CREATED=1410420820
+	VISITED=1410496041
+	DESCRIPTION= Спецзаказ Watch.ru - рестайлинг Восток
+	UNIQUEID=F31C76C0398511E49415DF0B39410CD7
+
+#URL
+	ID=667
+	NAME=Премьера часов Bell&Ross на выставке бизнес-авиации - Форум журнала "МОИ ЧАСЫ"
+	URL=http://mywatch.ru/forum/index.php?showtopic=10440
+	CREATED=1410420829
+	VISITED=1410495936
+	UNIQUEID=F8990910398511E49416A9FA255BDEC7
+
+#URL
+	ID=668
+	NAME=Ремешок для часов Fossil CH2586 - Ремешки для часов Fossil - В-Магазине.РФ
+	URL=http://в-магазине.рф/remeshok-dlja-chasov-fossil-ch2586.html
+	CREATED=1410420836
+	VISITED=1410496554
+	DESCRIPTION=Ремешок для часов Fossil CH2586
+	UNIQUEID=FD0081E0398511E49417947AEA7480B9
+
+#URL
+	ID=669
+	NAME=Часы-напульсник в стимпанк-стиле. / Наши пользователи / Работы пользователей Стимпанкера / Коллективные блоги / Steampunker.ru - сеть для любителей steampunk'а
+	URL=http://steampunker.ru/blog/usersworks/1521.html
+	CREATED=1410496994
+	DESCRIPTION=Часы-напульсник в стимпанк-стиле. / Наши пользователи / Работы пользователей Стимпанкера / Коллективные блоги / Steampunker.ru - сеть для любителей steampunk'а
+	UNIQUEID=4E5EB7803A3711E487B7D1C80A7686E3
+
+#URL
+	ID=670
+	NAME=Наши пользователи / Работы пользователей Стимпанкера / Коллективные блоги / Steampunker.ru - сеть для любителей steampunk'а
+	URL=http://steampunker.ru/blog/usersworks/
+	CREATED=1410497221
+	DESCRIPTION=Наши пользователи / Работы пользователей Стимпанкера / Коллективные блоги / Steampunker.ru - сеть для любителей steampunk'а
+	UNIQUEID=D5EFEAC03A3711E487B8D43F5C639090
+
+#URL
+	ID=671
+	NAME=Наручные часы Aristo ME 109-42R7 - Messerschmitt Pilot Watch
+	URL=http://agiperwatch.ru/item.php?id=124
+	CREATED=1410497380
+	DESCRIPTION=Интернет-магазин часов. Огромный выбор моделей: мужские, женские, швейцарские, японские и множество других видов часов вы найдете у нас в каталоге.
+	UNIQUEID=34D34C803A3811E487B9A4521D6DB380
+
+#URL
+	ID=672
+	NAME=Наручные часы "Спираль №2". - белый,живи ярко,часы наручные,оригинальный подарок
+	URL=http://www.livemaster.ru/item/1924049-ukrasheniya-naruchnye-chasy-spiral-2
+	CREATED=1410497395
+	DESCRIPTION=Наручные часы 'Спираль №2'. Кварцевые часы, японский механизм. Кожаный ремешок шириной 6 см Диаметр часов 42 мм Диаметр циферблата 38 мм Срок изготовления - 4 дня Пожалуйста пишите Ваш обхват запястья.
+	UNIQUEID=3DBE9FC03A3811E487BAD7C6EC7865CE
+
+#URL
+	ID=673
+	NAME=Напульсник (браслет) для часов - коричневый,напульсник,часы,кожаный браслет
+	URL=http://www.livemaster.ru/item/6377197-aksessuary-napulsnik-braslet-dlya-chasov
+	CREATED=1410497422
+	DESCRIPTION=Напульсник для часов. Натуральная кожа, размер напульсника без ремней 150х60 мм, окружность по запястью ~170-250 мм, ширина часового ремешка 20 мм.
+	UNIQUEID=4D879BF03A3811E487BBA2CD1C7B3D84
+
+#URL
+	ID=674
+	NAME=браслет-напульсник / Блог им. viktor7252 / Коллективные блоги / Steampunker.ru - сеть для любителей steampunk'а
+	URL=http://steampunker.ru/blog/8198.html
+	CREATED=1410497471
+	DESCRIPTION=браслет-напульсник / Блог им. viktor7252 / Коллективные блоги / Steampunker.ru - сеть для любителей steampunk'а
+	UNIQUEID=6B378DE03A3811E487BCE2065183F90C
+
+#URL
+	ID=675
+	NAME=Просмотр темы - Два браслета и ремень)ARNESI.ru
+	URL=http://arnesi.ru/viewtopic.php?f=21&t=865&start=10
+	CREATED=1410497497
+	UNIQUEID=7A8E8E603A3811E487BDA1677389ED6A
+
+#URL
+	ID=676
+	NAME=Кожаный браслет-напульсник в стиле Minimalist купить в интернет-магазине в Москве с доставкой
+	URL=http://www.ethnicspirit.ru/product_191.html
+	CREATED=1410497522
+	DESCRIPTION=Кожаный браслет-напульсник в стиле Minimalist купить в интернет-магазине в Москве с доставкой
+	UNIQUEID=8995C1303A3811E487BE8369C090ACA1
+
+#URL
+	ID=677
+	NAME=Страйкбольный портал Санкт-Петербурга > Часы для страйка
+	URL=http://www.airsoftgunspb.ru/forum/lofiversion/index.php/t37175.html
+	CREATED=1410497588
+	UNIQUEID=B0DA17A03A3811E487C0E78B4728D61C
+
+#URL
+	ID=678
+	NAME=из кожи про стимпанк / Блог им. kooc / Коллективные блоги / Steampunker.ru - сеть для любителей steampunk'а
+	URL=http://steampunker.ru/blog/7815.html
+	CREATED=1410497875
+	DESCRIPTION=из кожи про стимпанк / Блог им. kooc / Коллективные блоги / Steampunker.ru - сеть для любителей steampunk'а
+	UNIQUEID=5C00A3103A3911E487C1C9BDB1CEC638
+
+#URL
+	ID=679
+	NAME=Часы. стимпанк. браслет. кожа. шетсерёнки. вензель / Поиск по тегам / Steampunker.ru - сеть для любителей steampunk'а
+	URL=http://steampunker.ru/tag/Часы.%20стимпанк.%20браслет.%20кожа.%20шетсерёнки.%20вензель/
+	CREATED=1410498045
+	VISITED=1410501330
+	DESCRIPTION=Часы. стимпанк. браслет. кожа. шетсерёнки. вензель / Поиск по тегам / Steampunker.ru - сеть для любителей steampunk'а
+	UNIQUEID=C1629DD03A3911E487C2B279188DD67A
+
+#URL
+	ID=680
+	NAME=Как сделать стимпанк очки своими руками (инструкция) ч.2 | МозгоЧины
+	URL=http://mozgochiny.ru/stimpank-2/kak-sdelat-stimpank-ochki-svoimi-rukami-instruktsiya-ch-2/
+	CREATED=1410498155
+	UNIQUEID=026AB7E03A3A11E487C39072488C1DE9
+
+#URL
+	ID=681
+	NAME=Наши пользователи / Блошиный рынок / Коллективные блоги / Steampunker.ru - сеть для любителей steampunk'а
+	URL=http://steampunker.ru/blog/flea_market/
+	CREATED=1410501875
+	DESCRIPTION=Наши пользователи / Блошиный рынок / Коллективные блоги / Steampunker.ru - сеть для любителей steampunk'а
+	UNIQUEID=AC23AFF03A4211E487C4D6D3D90FA8CE
+
+#URL
+	ID=682
+	NAME=Пайка меди твердым припоем ПМФ-7 (harris). (добавлены фото) / Мастерские / В помощь стим-мастеру / Коллективные блоги / Steampunker.ru - сеть для любителей steampunk'а
+	URL=http://steampunker.ru/blog/forsteammaker/8642.html
+	CREATED=1410502292
+	DESCRIPTION=Пайка меди твердым припоем ПМФ-7 (harris). (добавлены фото) / Мастерские / В помощь стим-мастеру / Коллективные блоги / Steampunker.ru - сеть для любителей steampunk'а
+	UNIQUEID=A464B2403A4311E487C5E5CF169AC663
+
+#URL
+	ID=683
+	NAME=Браслет "Стимпанк №3", кожаный, из кожи, паропанк - браслет,кожаный браслет
+	URL=http://www.livemaster.ru/item/7104909-ukrasheniya-braslet-stimpank-3-kozhanyj-iz
+	CREATED=1410502349
+	DESCRIPTION=Кожаный браслет 'Стимпанк №3' - лаконичный и в то же время загадочный, оставляет в воображении место для тайны :) Сделаю на заказ по вашим размерам, цвет обсуждаем. Пишите!
+	UNIQUEID=C66A1BA03A4311E487C6D34FAFBF83A2
+
+#URL
+	ID=684
+	NAME=Стимпанк-часы Devon Tread 1 Limited Edition | GeekCity
+	URL=http://geekcity.ru/stimpank-chasyi-devon-tread-1-limited-edition/
+	CREATED=1410502447
+	UNIQUEID=00F682E03A4411E487C7AFCAC2367D63
+
+#URL
+	ID=685
+	NAME=Стимпанк-часы
+	URL=http://www.bugaga.ru/jokes/1146725365-stimpank-chasy.html
+	CREATED=1410502550
+	DESCRIPTION=Как гласит народная мудрость: чтобы узнать человека, достаточно посмотреть на его обувь и часы. Что касается часов, то они могут многое поведать о статусе их владельца, а так же о его личнос
+	UNIQUEID=3E29EE403A4411E487C8EEC18BDCF491
+
+-
+
+#URL
+	ID=686
+	NAME=5in1 Micro USB OTG TF Card Reader HUB Sync MHL To HDMI HDTV Adapter Cable AC167 | eBay
+	URL=http://www.ebay.co.uk/itm/5in1-Micro-USB-OTG-TF-Card-Reader-HUB-Sync-MHL-To-HDMI-HDTV-Adapter-Cable-AC167-/161360314018?pt=UK_Controllers_Attachments&hash=item2591d2fea2
+	CREATED=1410951791
+	DESCRIPTION=5in1 Micro USB OTG TF Card Reader HUB Sync MHL To HDMI HDTV Adapter Cable AC167 in Video Games & Consoles, Accessories, Controllers | eBay
+	UNIQUEID=36B8FFB03E5A11E4847D9DB09C8F6B74
+
+#URL
+	ID=687
+	NAME=▶ Xperia SP MHL Gaming Modern Combat 4 - YouTube
+	URL=http://www.youtube.com/watch?v=B1RQlgXP09c
+	CREATED=1410955442
+	VISITED=1410955476
+	DESCRIPTION=Играем в Modern Combat 4 по сети, телефон подключен к телевизору через MHL, запись идет с телевизора. Джойстика пока нет, так что управляю игрой с телефона.
+	UNIQUEID=B71633003E6211E4847EC9B0C6C46025
+
+#URL
+	ID=688
+	NAME=Sony DR-BTN200 в интернет-магазинах — Bluetooth-гарнитуры — Яндекс.Маркет
+	URL=http://market.yandex.ru/offers.xml?&modelid=10386388&hid=418706&hyperid=10386388&grhow=shop&how=aprice&np=1
+	CREATED=1411020424
+	DESCRIPTION=Где купить Sony DR-BTN200. Сравните цены на Яндекс.Маркете.
+	ACTIVE=YES
+	UNIQUEID=03845DB03EFA11E4860D94EDC4AD7AAB
+
+#URL
+	ID=689
+	NAME=Sony Action Cam HDR AS30V Full HD 11 9MP GPS NFC WiFi Camera Kit Waterproof Case | eBay
+	URL=http://www.ebay.com/itm/Sony-Action-Cam-HDR-AS30V-Full-HD-11-9MP-GPS-NFC-WiFi-Camera-Kit-Waterproof-Case-/171372352542?pt=AU_Video_Cameras&hash=item27e696941e
+	CREATED=1411037421
+	DESCRIPTION=Sony Action Cam HDR-AS30V Full HD 11.9MP GPS NFC WiFi Camera Kit Waterproof Case in Видео и фототехника, Камкордеры | eBay
+	UNIQUEID=9681D8003F2111E485F0A8D5062A1FDA
+
+#URL
+	ID=690
+	NAME=Restricted sum :: CheckiO
+	URL=http://www.checkio.org/mission/restricted-sum/
+	CREATED=1415524260
+	VISITED=1415898630
+	UNIQUEID=B3D5F62D679C3049B886A8E935757BBD
+
+#URL
+	ID=691
+	NAME=Ремонт блоков управления Toyota, ремонт блоков управления Toyota RAV4,  ремонт ЭБУ Toyota Matrix и Pontiac Vibe
+	URL=http://www.car-work.ru/toyota.htm
+	CREATED=1427981933
+	DESCRIPTION=Характерные неисправности электроники автомобилей Toyota. Ремонт блоков управления ECU, ЭБУ, ECM, PCM, АКПП автомобилей Toyota Rav4, Toyota Matrix, Pontiac Vibe.
+	UNIQUEID=9A382240D93D11E485CFEC1BBED8F256
+
+#URL
+	ID=692
+	NAME=Посоветуйте сервис ! ! !
+	URL=https://www.drive2.ru/c/45505/
+	CREATED=1427982170
+	DESCRIPTION=Соратники, посоветуйте хороший, но неофициальный сервис Тойота! Желательно в ВАО Москвы…Разочаровался в своём сервисе: www.drive2.ru/cars/toyota/avensis/avensis_ii/sklyaroff34/journal/116634/#post
+	UNIQUEID=27F7D2B0D93E11E485D091C9A14C4586
+
+#URL
+	ID=693
+	NAME=Посоветуйте хорошего электрика
+	URL=http://forums.drom.ru/kurgan/t1151924429.html
+	CREATED=1427982174
+	DESCRIPTION=Машина Nissan Cefiro, на двух цилиндрах при увеличении оборотов (примерно с 750 до 1500) начинает плохо работать искра, после 1500 искра нормальная. Ка
+	UNIQUEID=2A3F51B0D93E11E485D18E91A87834C6
+
+#URL
+	ID=694
+	NAME=Автосервис
+	URL=http://dingo-auto.ru/avtoservis.html
+	CREATED=1427982571
+	UNIQUEID=16FEC580D93F11E485D29795741C721C
+
+#URL
+	ID=695
+	NAME=Запчасти для японских автомобилей, разборка авто из Японии, автозапчасти, продажа в Москве.
+	URL=http://www.avtojap.ru/
+	CREATED=1427982575
+	DESCRIPTION=Компания Самурай - запчасти для японских автомобилей с разборки, из Японии, контрактные, Б/У автозапчасти для всех марок, Москва, Химки.
+	UNIQUEID=19402A00D93F11E485D3E29C0EFDD056
+
+#URL
+	ID=696
+	NAME=Блок ABS toyota - есть все разновидности - Продажа автозапчастей в Хабаровске
+	URL=http://khabarovsk.baza.drom.ru/blok-abs-toyota-est-vse-raznovidnosti-33597820.html
+	CREATED=1427983452
+	DESCRIPTION=Toyota Land Cruiser. Контрактный. Оригинал. В наличии. Блок АБС контрактный в отличном состоянии. Желательно знать номер блока. TOYOTA - 2ZZ 3A 3C 3CT 3RZ 3S 3S-GTE 3UZ 3VZ 4A 4A-GE 4E 4GR 4S 4VZ 5A 5E 5K 5L 5S 5VZ 7A 7K K3-VE 1AZ 1G-FE 1G-GTE 1GR 1JZ 1JZ-GE 1JZ-GTE 1KD 1KR 1KZ 1MZ 1N-T 1ND 1NZ 1RZ 1SZ 1TR 1UZ 1ZZ 2AZ 2C-T 2GR 2JZ 2JZ-GTE 2KD 2MZ 2NZ 2SZ 2TZ 2UZ Allex Allion Alphard Altezza Aqua Aristo Auris Avalon Avensis bB Belta Blade Brevis Caldina Cami Gracia Camry Gracia Carina Cavalier Celica Celsior... Хабаровск
+	UNIQUEID=23C174A0D94111E485D496776057816E
+
+#URL
+	ID=697
+	NAME=Контакты
+	URL=http://dingo-auto.ru/kontakty.html
+	CREATED=1427984085
+	UNIQUEID=9D1F4A60D94211E485D5A8535E58676C
+
+#URL
+	ID=698
+	NAME=Блок abs Toyota Duet, M100A - Продажа автозапчастей в Екатеринбурге
+	URL=http://ekaterinburg.baza.drom.ru/good/blok-abs-622060895.html
+	CREATED=1427984124
+	VISITED=1427985645
+	DESCRIPTION=Цена: 2 500 р. Duet. M100A. В наличии. Екатеринбург
+	UNIQUEID=B42AF2E0D94211E485D68A8A0274AC13
+
+#URL
+	ID=699
+	NAME=Клуб Любителей Nissan March > Про стартер
+	URL=http://march-club.ru/forums/lofiversion/index.php?t6516.html
+	CREATED=1427984356
+	UNIQUEID=3E596640D94311E485D7CD4ED30FE454
+
+#URL
+	ID=700
+	NAME=Купить антиблокировочная тормозная система Toyota Duet. Тормозная система - система abs цена, замена, тюнинг.
+	URL=http://baza.drom.ru/sell_spare_parts/+/%E0%ED%F2%E8%E1%EB%EE%EA%E8%F0%EE%E2%EE%F7%ED%E0%FF+%F2%EE%F0%EC%EE%E7%ED%E0%FF+%F1%E8%F1%F2%E5%EC%E0/model/toyota+duet/?query=abs
+	CREATED=1427985217
+	VISITED=1427985474
+	DESCRIPTION=Продажа запчастей антиблокировочная тормозная система для авто Toyota Duet. Система abs, ABS тюнинг, замена, цена. База автозапчастей тормозная система для авто.
+	UNIQUEID=3FE65CF0D94511E485D8A1C66EF9A14A
+
+#URL
+	ID=701
+	NAME=Купить запчасть CARGO, 235100, РЕЛЕ ВТЯГИВАЮЩЕЕ СТАРТЕРА (легковые авто) ZZap.ru
+	URL=http://www.zzap.ru/default.aspx?partnumber=235100&class_man=CARGO&location=1&currency=1&rawdata=NISSAN%20CUBE%20%u0412%u0422%u042F%u0413%u0418%u0412%u0410%u042E%u0429%u0415%u0415
+	CREATED=1427985413
+	DESCRIPTION=Купить запчасть CARGO, 235100, РЕЛЕ ВТЯГИВАЮЩЕЕ СТАРТЕРА (легковые авто) в магазинах дилеров и производителей. Удобный поиск по цене и каталогам продавцов. Регион Москва и область.
+	UNIQUEID=B4C46C60D94511E485D9CFBE1F5D8037
+
+#URL
+	ID=702
+	NAME=Реле втягивающее стартера артикул 235100 применяемость Nissan Almera / Cube / Kubistar / Micra / Note / Qashqai / Tiida 1.5D / Renault Clio / Grand Scenic / Kangoo / Laguna / Megane / Modus / Scenic / Thalia / Twingo 1.5D /Склад Ф1 Cargo - Продажа автозапчастей в Набережных Челнах
+	URL=http://naberezhnye-chelny.baza.drom.ru/good/rele-vtjagivajushee-startera-artikul-235100-primenjaemost-nissan-almera-cube-kubistar-micra-note-qashqai-tiida-1.5-d-613051696.html
+	CREATED=1427985558
+	VISITED=1430364441
+	DESCRIPTION=Цена: 922 р. Новый. В наличии. Набережные Челны
+	UNIQUEID=0B33F4D0D94611E485DAEF4C34908FDE
+
+#URL
+	ID=703
+	NAME=Блок управления abs Toyota Duet, M100A, EJVE - Продажа автозапчастей в Новосибирске
+	URL=http://novosibirsk.baza.drom.ru/good/blok-upravlenija-abs-602835876.html
+	CREATED=1427985656
+	DESCRIPTION=Цена: 941 р. Duet. M100A. EJVE. В наличии. Артикул: 71964; Комплектация: Стоимость, наличие и подробное описание товара узнавайте у продавца. Возможно изменение цены, неполное или некорректное описание товара, отсутствие товара в наличии.; Дата выпуска: 1999;. Новосибирск
+	UNIQUEID=453CFB40D94611E485DBF285DCCE4F74
+
+#URL
+	ID=704
+	NAME=ABS и VCS на Toyota Duet M100A - Автозапчасти
+	URL=http://toyota.epcdata.ru/duet/m100a/1329/electric/8414/
+	CREATED=1427985938
+	VISITED=1427985997
+	DESCRIPTION=ABS и VCS на Toyota Duet в кузове M100A
+	UNIQUEID=ED69A7A0D94611E485DC9BC3DD71CF9B
+
+#URL
+	ID=705
+	NAME=ABS и VCS на Тойота Duet M100A - Автозапчасти
+	URL=http://toyota.epcdata.ru/duet/m100a/1314/electric/8414/89543/
+	CREATED=1427985949
+	DESCRIPTION=ABS и VCS на Toyota Duet в кузове M100A
+	UNIQUEID=F427BAA0D94611E485DD95DADEE73E52
+
+#URL
+	ID=706
+	NAME=Запчасти для легковых автомобилей в наличии
+	URL=http://baza.drom.ru/sell_spare_parts/?query=89545-97201&goodPresentState=present
+	CREATED=1427986020
+	DESCRIPTION=Предложения о продаже автомобильных запасных частей, новых и бывших в употреблении.
+	UNIQUEID=1E8D0020D94711E485DEE4E415D4392B
+
+#URL
+	ID=707
+	NAME=Двигатель и топливная система на Cube, период выпуска 10.2002 - 05.2005, Nissan Куб в кузове BNZ11 - Запчасти
+	URL=http://nissan.epcdata.ru/cube/bnz11/6929-cr14de/engine/
+	CREATED=1427986420
+	VISITED=1430364442
+	DESCRIPTION=Nissan Cube - каталог запчастей. Двигатель и топливная система на Cube в кузове BNZ11, 10.2002 - 05.2005.
+	UNIQUEID=0CBAA9F0D94811E485DFC6E8A5F80436
+
+#URL
+	ID=708
+	NAME=Sublime Text для фронтэнд-разработчика / Хабрахабр
+	URL=http://habrahabr.ru/post/244681/
+	CREATED=1432645596
+	DESCRIPTION=Sublime Text на данный момент является одним из самых популярных текстовых редакторов, используемых для веб-разработки, поэтому надо знать его преимущества и недостатки. Вместо того, чтобы шаг...
+	UNIQUEID=0A729A6003A811E58721F3AA83020DC8
+
+#URL
+	ID=709
+	NAME=Анализ изображений и видео. Обнаружение текста на изображениях / Блог компании Яндекс / Хабрахабр
+	URL=http://habrahabr.ru/company/yandex/blog/258573/
+	CREATED=1432647505
+	VISITED=1432801016
+	DESCRIPTION=Сегодня мы публикуем последнюю лекцию курса «Анализ изображений и видео», прочитанного Натальей Васильевой — старшим научным сотрудником HP Labs и руководителем HP Labs Russia. Наталья Сергеевна...
+	UNIQUEID=7C49AE9003AC11E58723991E3B53B36E
+
+#URL
+	ID=710
+	NAME=Я презираю Arduino / Хабрахабр
+	URL=http://habrahabr.ru/post/146489/
+	CREATED=1433345030
+	DESCRIPTION=Я – выпускник специальности «Микроэлектроника и полупроводниковые устройства». За годы обучения я разработал множество устройств на микроконтроллерах, участвовал в конкурсах вместе со своей...
+	UNIQUEID=898CEF500A0411E589E4C9AE217EC221
+
+#URL
+	ID=711
+	NAME=STM32F1xx — лечимся от ардуинозависимости вместе / Хабрахабр
+	URL=http://habrahabr.ru/post/123791/
+	CREATED=1433345220
+	DESCRIPTION=Добрый день, уважаемые хабровчане! После длительного перерыва, связанного с защитой дипломного проекта в Бауманке, я снова вернулся к написанию статей. Так как с недавнего времени я занялся...
+	UNIQUEID=FA8ADE600A0411E589E5AAF6533CE0B2
+
+#URL
+	ID=712
+	NAME=INTUIT.ru: Программирование - Интернет Университета Информационных Технологий
+	URL=http://old.intuit.ru/catalog/se/
+	CREATED=1433365004
+	VISITED=1449040865
+	DESCRIPTION=INTUIT.ru: каталог курсов Интернет Университета Информационных Технологий - бесплатное дистанционное образование компьютерным дисциплинам
+	UNIQUEID=0A8890400A3311E589E9E506647ACE8B
+
+#URL
+	ID=713
+	NAME=INTUIT.ru: Видеокурс - Базовые алгоритмы для школьников
+	URL=http://old.intuit.ru/department/algorithms/basicalgos/
+	CREATED=1433365030
+	DESCRIPTION=INTUIT.ru: видеокурс Базовые алгоритмы для школьников
+	UNIQUEID=1A21F0F00A3311E589EAC072B729F3D2
+
+#URL
+	ID=714
+	NAME=Ошибка
+	URL=https://m.avito.ru/moskva/zapchasti_i_aksessuary/vesla_ot_baydarki_taymen_603991968
+	CREATED=1436765581
+	UNIQUEID=A0963900292011E5916ACDFEDE49ADF8
+
+#URL
+	ID=715
+	NAME=Ошибка
+	URL=https://m.avito.ru/moskva/sport_i_otdyh/shkury_ot_baydarki_taymen_3_pvh_601689491
+	CREATED=1436765593
+	UNIQUEID=A7AC3000292011E5916BE6E14E1BA8AB
+
+#URL
+	ID=716
+	NAME=Ошибка
+	URL=https://m.avito.ru/moskva/sport_i_otdyh/shkura_dlya_baydarki_taymen-2_pvh_novaya_540138932
+	CREATED=1436765597
+	UNIQUEID=A9DB4500292011E5916C80D44BB53CBB
+
+#URL
+	ID=717
+	NAME=Шаманство вокруг оптической технологии GPON от МГТС | Одминский блог
+	URL=http://odminblog.ru/plyaski-vokrug-gpon-ot-mgts/
+	CREATED=1436767837
+	VISITED=1437458552
+	DESCRIPTION=Установка оборудования МГТС по технологии GPON внезапно обернулась шаманством с уровнем сигнала в квартире.
+	UNIQUEID=E13F29D0292511E5916EF84621B1C204
+
+#URL
+	ID=718
+	NAME=Как отрыть порт на HG8245 | Настройка оборудования
+	URL=http://nastroisam.ru/otkryvaem-port-na-hg8245/
+	CREATED=1436769716
+	VISITED=1436770467
+	DESCRIPTION=Подробная инструкция как отрыть порт на HG8245. Делаем на hg8245 проброс портов. Настройка port forwarding на Huawei HG8245 с иллюстрациями.
+	UNIQUEID=412B9A50292A11E5916FCA247897B1AF
+
+#URL
+	ID=719
+	NAME=Установка программного обеспечения из исходников под МГТС роутер ZTE F-660 в chroot окружении / Хабрахабр
+	URL=http://habrahabr.ru/post/211759/
+	CREATED=1437384591
+	DESCRIPTION=Привет всем! Во многом благодаря компании МГТС и ее оптической сети GPON, я познакомился с оптическим модемом-роутером ZTE f-660. Как только дома появился этот девайс, у меня сразу появилась...
+	UNIQUEID=DF5D2EE02EC111E5880A8BB07ED612AF
+
+#URL
+	ID=720
+	NAME=Удаленная поддержка компьютера на Linux OS / Хабрахабр
+	URL=http://habrahabr.ru/post/127405/
+	CREATED=1437400290
+	VISITED=1437729686
+	DESCRIPTION=Настройка IPv6-туннеля за симметричным NAT и удаленного управления через VNC Не так давно я искал решение для удаленного администрирования системой на Linux. Основная проблема в том, что...
+	UNIQUEID=6CDEE1902EE611E5880CAF689D05B681
+
+#URL
+	ID=721
+	NAME=Octopustent, Stretch Tents for events and functions
+	URL=http://www.octopustent.com/
+	CREATED=1437465759
+	DESCRIPTION=Octopustent, for your wedding, coporate eventor function, we cater for all! with our high quality stretch tents
+	UNIQUEID=DB33AD902F7E11E584A9D885A101383C
+
+#URL
+	ID=722
+	NAME=Jimmy LewisJimmy Lewis Octopus tent 8mt x 5mt altezza 5mt
+	URL=http://www.jlid-italydistribution.com/en/Stand-Up-Paddle/108-jimmy-lewis-jimmy-lewis-octopus-tent-8mt-x-5mt-altezza-5mt.asp
+	CREATED=1437465780
+	DESCRIPTION=Stand Up Paddle,  Accessories,  Jimmy Lewis,  Jimmy Lewis Octopus tent 8mt x 5mt altezza 5mt
+	UNIQUEID=E7F9F1102F7E11E584AA8F7FA9A6AD3F
+
+#URL
+	ID=723
+	NAME=Stretch Tent - Buy Partytent Product on Alibaba.com
+	URL=http://www.alibaba.com/product-detail/stretch-tent_112864122.html
+	CREATED=1437465937
+	DESCRIPTION=Stretch Tent , Find Complete Details about Stretch Tent,Partytent from Garages, Canopies & Carports Supplier or Manufacturer-TENTATIONS BVBA
+	UNIQUEID=452431202F7F11E584ABFD2B6437ED9D
+
+#URL
+	ID=724
+	NAME=Star Shelter-Star Shelter Manufacturers, Suppliers and Exporters on Alibaba.comTrade Show Tent
+	URL=http://www.alibaba.com/trade/search?fsb=y&IndexArea=product_en&CatId=&SearchText=star+shelter+
+	CREATED=1437466520
+	DESCRIPTION=Star Shelter Manufacturers & Star Shelter Suppliers Directory - Find a Star Shelter Manufacturer and Supplier. Choose Quality Star Shelter Manufacturers, Suppliers, Exporters at Alibaba.com.Trade Show Tent
+	UNIQUEID=A11204202F8011E584ACC39E4B5A0B33
+
+#URL
+	ID=725
+	NAME=Опт star tent - Купить по низким ценам star tent Лоты на Aliexpress.com
+	URL=http://ru.aliexpress.com/wholesale?catId=0&initiative_id=&SearchText=star+tent
+	CREATED=1437466583
+	VISITED=1454440083
+	DESCRIPTION=Опт star tent из дешевых star tent лотов, купить у надежных star tent оптовиков.
+	UNIQUEID=C6A799202F8011E584ADFA3C513A0C58
+
+#URL
+	ID=726
+	NAME=Canvas Tent Pattern Good - Buy Canvas Tent Pattern,Tent,Shelter Product on Alibaba.com
+	URL=http://www.alibaba.com/product-detail/Canvas-Tent-Pattern-Good_117507196.html
+	CREATED=1437467217
+	DESCRIPTION=Canvas Tent Pattern Good , Find Complete Details about Canvas Tent Pattern Good,Canvas Tent Pattern,Tent,Shelter from Gazebos Supplier or Manufacturer-ABC-RENT
+	UNIQUEID=403383C02F8211E584AEE1D3A9145DAE
+
+#URL
+	ID=727
+	NAME=Star Tents | Star Shade | Spider Tent | Branded Tent | EPS-Doublet
+	URL=http://eps-doublet.com/product/tents-canopies/star-shade-tents
+	CREATED=1437467248
+	UNIQUEID=52A66A402F8211E584AFD21487B4CCD5
+
+#URL
+	ID=728
+	NAME=Способы обработки баннеров. Часть 1 Sign & Digital Graphics
+	URL=http://www.afr.ru/pressa/sign-digital-graphics-1/4022.html
+	CREATED=1437469109
+	DESCRIPTION=Sign & Digital Graphics. Способы обработки баннеров. Часть 1
+	UNIQUEID=A7EDF0A02F8611E584B789AF7BEE9A74
+
+#URL
+	ID=729
+	NAME=Переход на IP6 | Tsutsromo travel stories
+	URL=http://muromec.org.ua/2013/05/ip6/
+	CREATED=1437486514
+	UNIQUEID=2E1F17802FAF11E584B8BB04BA5CC825
+
+#URL
+	ID=730
+	NAME=Slow PC gadgets: Как настроить русскую раскладку клавиатуры в Lubuntu
+	URL=http://slowpcgadgets.blogspot.nl/2013/03/blog-post.html
+	CREATED=1445753219
+	UNIQUEID=9A5AD2C07ADE11E584ADB9885CEBC44A
+
+#URL
+	ID=731
+	NAME=PostgreSQL: Documentation: 8.1: CREATE SEQUENCE
+	URL=http://www.postgresql.org/docs/8.1/static/sql-createsequence.html
+	CREATED=1445771187
+	UNIQUEID=7042A9C07B0811E58645C996E93AC520
+
+#URL
+	ID=732
+	NAME=Последовательности в PostgreSQL — AOW
+	URL=http://doc.artofweb.ru/doc/Последовательности_в_PostgreSQL
+	CREATED=1445774785
+	UNIQUEID=D0A9CBB07B1011E58648D57A370F083E
+
+#URL
+	ID=733
+	NAME=Триггеры в PostgreSQL — AOW
+	URL=http://doc.artofweb.ru/doc/Триггеры_в_PostgreSQL
+	CREATED=1445774788
+	UNIQUEID=D2934C307B1011E586498CBCC7F8931E
+
+#URL
+	ID=734
+	NAME=SQL - Урок 15. Хранимые процедуры. Создание, использование и удаление.
+	URL=http://www.site-do.ru/db/sql15.php
+	CREATED=1446622886
+	UNIQUEID=7457EBD082C711E595FDC7AF3B135954
+
+#URL
+	ID=735
+	NAME=Заметки программистера: Установка PostgreSQL сервера в Ubuntu Linux
+	URL=http://www.dokwork.ru/2014/09/postgresql-ubuntu-linux.html
+	CREATED=1446622906
+	UNIQUEID=7FE6E7D082C711E595FEA9161D0B557F
+
+#URL
+	ID=736
+	NAME=Просто о make / Хабрахабр
+	URL=http://habrahabr.ru/post/211751/
+	CREATED=1446622918
+	DESCRIPTION=Меня всегда привлекал минимализм. Идея о том, что одна вещь должна выполнять одну функцию, но при этом выполнять ее как можно лучше, вылилась в создание UNIX. И хотя UNIX давно уже нельзя назвать...
+	UNIQUEID=876BF45082C711E595FFFC5653457F15
+
+#URL
+	ID=737
+	NAME=PostgreSQL: справочник по командам psql, pg_dump, pg_restore | proft.me
+	URL=http://proft.me/2013/06/9/postgresql-spravochnik-po-komandam-psql-pg_dump/
+	CREATED=1446622934
+	DESCRIPTION=Описаны команды psql, pg_dump, pg_dumpall, pg_restore для управления базами данных, обслуживания, создания и восстановления бекапов.  Пост обновлен 21.10.2015.
+	UNIQUEID=90CE4C5082C711E59600EB169F2EFC0D
+
+#URL
+	ID=738
+	NAME=PostgreSQL - Community Help Wiki
+	URL=https://help.ubuntu.com/community/PostgreSQL
+	CREATED=1446622949
+	UNIQUEID=99ADDFC082C711E59602D1AEE70E7BFC
+
+#URL
+	ID=739
+	NAME=Документация AOW — AOW
+	URL=http://doc.artofweb.ru/doc/Заглавная_страница
+	CREATED=1446622983
+	UNIQUEID=ADDFB45082C711E59604C41CC187345A
+
+#URL
+	ID=740
+	NAME=Организация хранения пространственных данных в PostGIS/PostgeSQL / Хабрахабр
+	URL=http://habrahabr.ru/post/137121/
+	CREATED=1446623009
+	VISITED=1447089012
+	DESCRIPTION=По приходу в одну контору, которая занимается разработкой карт, схем и планов, меня очень удивила одна вещь: не было централизованного хранилища всех материалов. Пользователи работали каждый со...
+	UNIQUEID=BD55395082C711E59607EDB392030CFC
+
+#URL
+	ID=741
+	NAME=Итак, вы решили стать программистом | Записки программиста
+	URL=http://eax.me/beginning-programming/
+	CREATED=1446623021
+	DESCRIPTION=Недавно мне пришло одно интересное письмо. Автор (что характерно, девушка) интересовался, что нужно делать, чтобы стать программистом. С чего начать, какой язык
+	UNIQUEID=C46FEB4082C711E59609DF0987CA5D63
+
+#URL
+	ID=742
+	NAME=PostgreSQL 9.2 Начало! / Хабрахабр
+	URL=http://habrahabr.ru/post/168601/
+	CREATED=1446623040
+	VISITED=1447089014
+	DESCRIPTION=Мне хотелось создать прекрасный объемлющий мануал Getting Start без всякой воды, но включающий основные плюшки для начинающих по системе PostgreSQL в Linux.PostgreSQL является...
+	UNIQUEID=D0386DD082C711E5960B84FA47C3DE65
+
+#URL
+	ID=743
+	NAME=Репликация базы данных PostgreSQL на основе SymmetricDS / Хабрахабр
+	URL=http://habrahabr.ru/post/127282/
+	CREATED=1446623061
+	VISITED=1447089011
+	DESCRIPTION=В этой статье я расскажу, как настроить репликацию баз данных для PostgreSQL. Для экспериментов будем использовать дистрибутив линукса CentOS 5.3, хотя это не принципиально. будем использовать...
+	UNIQUEID=DCB43AD082C711E5960CE41592290F89
+
+#URL
+	ID=744
+	NAME=Введение в PostgreSQL BDR / Хабрахабр
+	URL=http://m.habrahabr.ru/post/227959/
+	CREATED=1446623072
+	VISITED=1447160187
+	UNIQUEID=E30449C082C711E5960DF8749E62E3EB
+
+#URL
+	ID=745
+	NAME=Мелочи, облегчающие жизнь / Хабрахабр
+	URL=http://habrahabr.ru/post/72841/
+	CREATED=1446624114
+	VISITED=1450358607
+	DESCRIPTION=Postgresql, без сомнения, великолепная СУБД. Она обладает обширнейшими возможностями, отличной документации, и при всем при этом является бесплатной. Однако, всегда найдется что-то, чего...
+	UNIQUEID=5006683082CA11E5960EC2A67EC5D8B5
+
+#URL
+	ID=746
+	NAME=Хранимые функции на С в PostgreSQL / Хабрахабр
+	URL=http://habrahabr.ru/post/196544/
+	CREATED=1446624124
+	VISITED=1450358481
+	DESCRIPTION=Здравствуйте, хабрачеловеки! Многие из Вас сталкивались с вынесением бизнес-логики в СУБД в виде хранимых функций/процедур, облегчая клиент. В этом есть как и преимущества, так и недостатки....
+	UNIQUEID=5630EDC082CA11E5960F87A2DDF32589
+
+#URL
+	ID=747
+	NAME=PostgreSQL Basics by Example - Trackets Blog
+	URL=http://blog.trackets.com/2013/08/19/postgresql-basics-by-example.html
+	CREATED=1446624149
+	VISITED=1447160361
+	UNIQUEID=64E804C082CA11E59610DC2EB1EAC851
+
+#URL
+	ID=748
+	NAME=FRiCKLE/ngx_postgres · GitHub
+	URL=https://github.com/FRiCKLE/ngx_postgres
+	CREATED=1446966808
+	VISITED=1446969899
+	DESCRIPTION=ngx_postgres - upstream module that allows nginx to communicate directly with PostgreSQL database.
+	UNIQUEID=35FC924085E811E58736892B3C6FA6BC
+
+#URL
+	ID=749
+	NAME=Хинты планера в PostgreSQL / Хабрахабр
+	URL=http://habrahabr.ru/post/169751/
+	CREATED=1446966811
+	VISITED=1447061083
+	DESCRIPTION=Известно, что SQL — декларативный язык, который указывает, «что» мы хотим выбрать из базы, а «как» это сделать — СУБД решает сама. Задачу выбора для SQL-запроса конкретного способа его...
+	UNIQUEID=37A698C085E811E58737CF95BB3C1C37
+
+#URL
+	ID=750
+	NAME=creating_bootable_sd_card
+	URL=http://people.freebsd.org/~dmarion/beaglebone/creating_bootable_sd_card/
+	CREATED=1446981090
+	UNIQUEID=766B2870860911E587219AF05F51132A
+
+#URL
+	ID=751
+	NAME=FreeBSD/arm/BeagleBoneBlack - FreeBSD Wiki
+	URL=https://wiki.freebsd.org/FreeBSD/arm/BeagleBoneBlack
+	CREATED=1446981244
+	VISITED=1446981648
+	UNIQUEID=D2153120860911E58722C5F49D55BD28
+
+#URL
+	ID=752
+	NAME=ftp://ftp.freebsd.org/pub/FreeBSD/snapshots/arm/armv6/ISO-IMAGES/10.2/
+	URL=ftp://ftp.freebsd.org/pub/FreeBSD/snapshots/arm/armv6/ISO-IMAGES/10.2/
+	CREATED=1446981641
+	UNIQUEID=BEC2CAA0860A11E58723A4851FB59D1F
+
+#URL
+	ID=753
+	NAME=Touch Typing Online Lessons
+	URL=http://www.typingstudy.com/lesson/14/part/2
+	CREATED=1446984882
+	DESCRIPTION=Free online touch typing lessons and courses. Interactive learning, games and speed tests.
+	UNIQUEID=4AB2E700861211E58724A8F6484DC966
+
+#URL
+	ID=754
+	NAME=Репликация базы данных PostgreSQL на основе SymmetricDS / Хабрахабр
+	URL=http://m.habrahabr.ru/post/127282/
+	CREATED=1447229658
+	UNIQUEID=344B99D0884C11E5874F9FE8B2304A90
+
+#URL
+	ID=755
+	NAME=Ускоряем работу с Emmet, или мой первый шаг к Open Source / Хабрахабр
+	URL=http://m.habrahabr.ru/post/270579/
+	CREATED=1447256776
+	UNIQUEID=58313640888B11E587BAEEDD6F305087
+
+#URL
+	ID=756
+	NAME=Программирование на языке СИ
+	URL=http://citforum.ru/programming/c/dir.shtml
+	CREATED=1448516479
+	DESCRIPTION= Программирование на языке СИ , Госкомитет Российской Федерации по высшей школе Тамбовский Государственный Технический Университет, Ю.Ю.Громов, С.И.Татаренко
+	UNIQUEID=51DDF640940011E588BAA1375D4C17DB
+
+#URL
+	ID=757
+	NAME=Боди Caprice Jolanta - купить в интернет магазине Бюстик Ру
+	URL=http://www.bustic.ru/product/bodi-caprice-jolanta/
+	CREATED=1448877903
+	UNIQUEID=D335E6C0974911E58838E4712A995353
+
+#URL
+	ID=758
+	NAME=Боди Obsessive BODYSTOCKING F202 - купить в интернет магазине Бюстик Ру
+	URL=http://www.bustic.ru/product/bodi-obsessive-bodystocking-f202/?colorID=122
+	CREATED=1448878004
+	UNIQUEID=0F5941B0974A11E58839ED8E5D840A1C
+
+#URL
+	ID=759
+	NAME=Игровой костюм Baci BL1315 - купить в интернет магазине Бюстик ру
+	URL=http://www.bustic.ru/product/igrovoj-kostjum-baci-bl1315/
+	CREATED=1448878163
+	UNIQUEID=6E3B9200974A11E5883AC9B0DCBD1418
+
+#URL
+	ID=760
+	NAME=PostgreSQL 9.4.0: postgresql-9.4.0/contrib/oid2name/oid2name.c File Reference
+	URL=http://www.comp.nus.edu.sg/~cs3223/doxygen-postgres9.4.0/html/d7/df2/oid2name_8c.html
+	CREATED=1449154627
+	VISITED=1449232221
+	UNIQUEID=1F3B498099CE11E587B5DBCC2A904509
+
+#URL
+	ID=761
+	NAME=PostgreSQL Source Code: src/include/postgres.h File Reference
+	URL=http://doxygen.postgresql.org/postgres_8h.html#a3b8f9639d435322b80fc19d496fe1382
+	CREATED=1449154631
+	VISITED=1449232224
+	UNIQUEID=220F782099CE11E587B68A11AC6AE0C8
+
+#URL
+	ID=762
+	NAME=Компоненты 2.0::Фотогалерея 2.0 (комплексный компонент)
+	URL=https://dev.1c-bitrix.ru/user_help/service/photogallery/components_2/photogallery.php
+	CREATED=1449808570
+	UNIQUEID=B3C9EB409FC011E58824B582DA3BC844
+
+#URL
+	ID=763
+	NAME=[SOLVED] Fixing Broadcom BCM43xx cards Ubuntu 10.04 and later
+	URL=http://ubuntuforums.org/showthread.php?t=2005942
+	CREATED=1450198995
+	DESCRIPTION=I thought I would post this information in Dell Ubuntu Support for others to see. First, I have been running Ubuntu on this Laptop going on 4 years now. Some earlier releases of Ubuntu ran with no problems. I want to say it was around the the release of 10.04 that the issues with the wifi card came into play. But there is a work around. If you are using a Broadcom BCM43xx card (I am using a 4311). Do the following: After installing 10.xx, 11.xx, or 12.xx making sure you have a network cable
+	UNIQUEID=BB8C94F0A34D11E588CEC8F8D85AB4C4
+
+#URL
+	ID=764
+	NAME=Подключаем WiFi-адаптер WN727N к Ubuntu/Mint / Песочница / Хабрахабр
+	URL=http://habrahabr.ru/sandbox/96077/
+	CREATED=1450199003
+	UNIQUEID=BFFF7F70A34D11E588CFA8D712A3D6BD
+
+#URL
+	ID=765
+	NAME=broadcom - hp pavilion g6 1250 with a BCM 4313 doesn't see any wireless networks - Ask Ubuntu
+	URL=http://askubuntu.com/questions/82885/hp-pavilion-g6-1250-with-a-bcm-4313-doesnt-see-any-wireless-networks
+	CREATED=1450199063
+	UNIQUEID=E3C9CA50A34D11E588D08CA1D2AE19B3
+
+#URL
+	ID=766
+	NAME=bwi(4)
+	URL=https://www.freebsd.org/cgi/man.cgi?query=bwi&sektion=4
+	CREATED=1450199162
+	UNIQUEID=1E99F150A34E11E588D196A1AF8D74A6
+
