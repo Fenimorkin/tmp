@@ -154,6 +154,15 @@ Options: encoding = utf8, version=3
 	URL=http://www.atmel.com/devices/AT89C5131A-M.aspx?tab=documents
 	CREATED=1458655656
 
+#FOLDER
+	ID=813
+	NAME=
+	CREATED=1459178132
+	EXPANDED=YES
+	UNIQUEID=EA337B10F4F711E5848A9EA39E61DD2F
+
+-
+
 -
 
 #FOLDER
@@ -1680,6 +1689,7 @@ Options: encoding = utf8, version=3
 	ID=250
 	NAME=UNIX
 	CREATED=1449469720
+	EXPANDED=YES
 	UNIQUEID=1B04EEB0C45111E38827D94EAF8812C2
 
 #NOTE
@@ -1793,6 +1803,7 @@ Options: encoding = utf8, version=3
 	NAME=FreeBSD как десктопная система1) X11# cd /usr/ports/x11/xorg && make install clean2) kde# pkg_add -r xorg2.1) Конфигурирование X11# Xorg –configure# xorgconfig# X -config /root/xorg.conf.newЕсли  чёрно-белая сетка и курсор мыши в виде X и в нужном разрешении,  Для завершения Ctrl+Alt+Backspace. Если рябь\не включается\т.д. смотрите лог-файл# cat /var/log/Xorg.0.log3) Настройка видеокарты и монитора # xrandr # xrandr -s 1024x768 -r 60
 	URL=http://www.lissyara.su/articles/freebsd/x/freebsd_as_windows_replacement/
 	CREATED=1449469720
+	ACTIVE=YES
 
 #NOTE
 	ID=267
@@ -1807,6 +1818,20 @@ Options: encoding = utf8, version=3
 	NAME=Bashstart.sh#!/bin/bashcd /home/fedor/Work/Scripts # эта строчка переключает на нашу директорию с файломgnome-terminal -e "./tecst.sh" # эта строчка будет открывать терминал и запускать в нем 2 файлtecst.sh#!/bin/bashecho "I Love CyberForum !!!" sleep 10 #Время в сикундах на паказ сообщения.read./start.sh
 	URL=http://www.cyberforum.ru/shell/thread965472.html
 	CREATED=1449469720
+
+#NOTE
+	ID=794
+	UNIQUEID=60E92A50F4F011E5847DA1D46B6745A2
+	NAME=console 2 log script and the exit commandscript consolefile.log    ## Every thing between here is logged to fileexit    Script done, file is consolefile.log
+	URL=http://www-users.cs.umn.edu/~gini/1901-07s/files/script.html
+	CREATED=1459174895
+
+#NOTE
+	ID=830
+	UNIQUEID=47244250F4FD11E58497F725D97E2B57
+	NAME=Chmodchmod [-Rvf] [Правила доступа] [Файл/Файлы/Каталог файлов]Ключи -R, -v, -f-R Рекурсивное изменение прав доступа для каталога и вложенных файлов и подкаталогов-v Подробное описание применения изменения прав доступа или невозможности этого действия-f Не выдавать сообщение об ошибке для тех файлов и каталогов, для которых невозможно изменить права доступаПорядок чисел:1) Владелец файла или каталога2) Пользователи, входящие в группу владельца3) Остальные
+	URL=http://sheensay.ru/chmod
+	CREATED=1459180436
 
 -
 
@@ -2161,7 +2186,6 @@ Options: encoding = utf8, version=3
 	ID=318
 	NAME=Grixa
 	CREATED=1449808556
-	EXPANDED=YES
 	UNIQUEID=AB3D0BB09FC011E5882399013B034810
 
 #NOTE
@@ -2419,6 +2443,7 @@ Options: encoding = utf8, version=3
 	ID=354
 	NAME=fallocateДля включения fallocate в ext4fs, там нужно указывать параметр монтирования extents.
 	CREATED=1458908627
+	EXPANDED=YES
 	UNIQUEID=6CA314A0F28411E584FCF5EA21AD9CD0
 
 #NOTE
@@ -2455,6 +2480,20 @@ Options: encoding = utf8, version=3
 	NAME=filefrag-B Force the use of the older FIBMAP ioctl instead of the FIEMAP ioctl for testing purposes. -b Use 1024 byte blocksize for the output. -s Sync the file before requesting the mapping. -v Be verbose when checking for file fragmentation. -x Display mapping of extended attributes.
 	URL=http://linux.die.net/man/8/filefrag
 	CREATED=1458910251
+
+#NOTE
+	ID=799
+	UNIQUEID=1BA8CB80F4F511E58482FF9722357F59
+	NAME=palloc.h doxygen
+	URL=http://doxygen.postgresql.org/palloc_8h.html
+	CREATED=1459176927
+
+#NOTE
+	ID=829
+	UNIQUEID=9225AF20F4FB11E58496FC4AC1205DEA
+	NAME=MAILLIST Re: Relation extension scalability
+	URL=http://www.postgresql.org/message-id/20160107112341.5md4r2237hvanoxw@alap3.anarazel.de
+	CREATED=1459179703
 
 -
 
@@ -2527,13 +2566,28 @@ Options: encoding = utf8, version=3
 	URL=https://habrahabr.ru/post/44520/
 	CREATED=1458212911
 
-#FOLDER
-	ID=370
-	NAME=pgbench
-	CREATED=1458278094
-	UNIQUEID=59DD7C50ECC811E58774BD43D36DACFE
+#NOTE
+	ID=816
+	UNIQUEID=1A0A2F50F4F811E5848BDE08DE8C8588
+	NAME=ПРЕДСТАВЛЕНИЕ VIEWОБЪЕКТ ДАННЫХ КОТОРЫЙ не содержит никаких данных его владельца.Это - тип таблицы, чье содержание выбирается из других таблиц с помощью выполнения запроса. Поскольку значения в этих таблицах меняются, то автоматически, их значения могут быть показаны представлением. В этой главе, вы узнаете что такое представления, как они создаются, и немного об их возможностях и ограничениях. Использование представлений основанных на улучшенных средствах запросов, таких как объединение и подзапрос, разработанных очень тщательно, в некоторых случаях даст больший выигрыш по сравнению с запросами.       CREATE VIEW Londonstaff          AS SELECT *          FROM Salespeople          WHERE city = 'London'
+	URL=http://postgresql.ru.net/gruber/ch20.html
+	CREATED=1459178213
+
+#NOTE
+	ID=819
+	UNIQUEID=515E00D0F4F811E5848CD9B7BEDEB2A1
+	NAME=ViewsCREATE VIEW myview AS    SELECT city, temp_lo, temp_hi, prcp, date, location        FROM weather, cities        WHERE city = name;SELECT * FROM myview;
+	URL=http://postgresql.ru.net/manual/tutorial-views.html
+	CREATED=1459178305
 
 -
+
+#FOLDER
+	ID=818
+	NAME=pgbench
+	CREATED=1458278094
+	EXPANDED=YES
+	UNIQUEID=59DD7C50ECC811E58774BD43D36DACFE
 
 -
 
@@ -2712,6 +2766,13 @@ Options: encoding = utf8, version=3
 	NAME=Replication slots в PostgreSQL
 	URL=https://habrahabr.ru/post/245847/
 	CREATED=1456557969
+
+#NOTE
+	ID=797
+	UNIQUEID=D2C14FF0F4F411E584809796FA77E0DC
+	NAME=18.5. Журнал упреждающей записи WAL
+	URL=https://www.postgrespro.ru/doc/runtime-config-wal.html
+	CREATED=1459176804
 
 -
 
@@ -2925,6 +2986,69 @@ Options: encoding = utf8, version=3
 	URL=http://www.c-cpp.ru/books/if-else-elif-i-endif
 	CREATED=1458918416
 
+#NOTE
+	ID=798
+	UNIQUEID=EE54A370F4F411E58481D65D75A468AF
+	NAME=C-функции для PostgreSQL (gcc postgresql function)     * Пишем Set Returning Function     * Простейшее использование Server Processing Interface     * Отладка (debug) кода     * Компиляция кода с помощью Makefile     * Замечания
+	URL=https://www.opennet.ru/base/dev/pgsql_c_func.txt.html
+	CREATED=1459176851
+
+#NOTE
+	ID=804
+	UNIQUEID=B2354AB0F4F511E58485CDAFE001B743
+	NAME=What is volatile?
+	URL=http://www.cplusplus.com/forum/beginner/7762/
+	CREATED=1459177179
+
+#NOTE
+	ID=806
+	UNIQUEID=A5260560F4F711E584879B1AFEA2630E
+	NAME=Хранимые функции на С в PostgreSQL
+	URL=https://habrahabr.ru/post/196544/
+	CREATED=1459178016
+
+#NOTE
+	ID=820
+	UNIQUEID=0FB173F0F4F911E5848DD76DBF1E3E7F
+	NAME=Макроc Си
+	URL=https://ru.wikipedia.org/wiki/Макрокоманда
+	CREATED=1459178625
+
+#NOTE
+	ID=821
+	UNIQUEID=415769F0F4F911E5848ED420DBF8D8F3
+	NAME=Однонаправленный список LIFO Си
+	URL=http://ci-plus-plus-snachala.ru/?p=57
+	CREATED=1459178708
+
+#NOTE
+	ID=822
+	UNIQUEID=61726870F4F911E5848FBCA54C975680
+	NAME=Указатели, ссылки и массивы в C
+	URL=https://habrahabr.ru/post/251091/
+	CREATED=1459178762
+
+#NOTE
+	ID=823
+	UNIQUEID=9F303980F4F911E58490C354C4178147
+	NAME=Основы Git - Отмена изменений
+	URL=https://git-scm.com/book/ru/v1/Основы-Git-Отмена-изменений
+	CREATED=1459178865
+
+#NOTE
+	ID=824
+	UNIQUEID=1D8B06C0F4FA11E58491F970051C366D
+	NAME=patch ***Применить:patch -p1 < ../patch-x.y.zОткатить:patch -R -p1 < ../patch-x.y.zЕсли вы хотите проверить, будет ли патч применен корректно, перед тем как применить его на самом деле, добавьте в команду patch опцию --dry-try.
+	URL=http://citkit.ru/articles/1439/
+	CREATED=1459179077
+
+#NOTE
+	ID=828
+	UNIQUEID=8050DD60F4FB11E58495E64A35DA28CD
+	NAME=Глава 6. Структуры6.1 Основные сведения о структурах6.2 Структуры и функции6.3 Массивы структур6.4 Указатели на структуры6.5 Структуры со ссылками на себя6.6 Просмотр таблиц6.7 Средство typedef6.8 Объединения6.9 Битовые поля
+	URL=http://cpp.com.ru/kr_cbook/ch6kr.html
+	CREATED=1459179673
+
 -
 
 #NOTE
@@ -3066,12 +3190,20 @@ Options: encoding = utf8, version=3
 	URL=https://vimeo.com/user1690209/videos
 	CREATED=1458572436
 
+#NOTE
+	ID=796
+	UNIQUEID=8902FC60F4F411E5847FDD9ABBE9D076
+	NAME=Отладка в PostgreSQLВариант-1postgresql.conf: stats_command_string=onНе забыть перегрузиться: pg_ctl reload"SELECT usename, datname, current_query FROM pg_stat_activity"В этом ваианте длина запросов ограничена в 255 символов до 8 версии и около 1кБ в более поздних - хвост обрезается.Вариант-2postgresql.conf: log_duration=on и log_statement='all' - и мониторить логи.Вариант-3Использовать спец. дебаггер - gdb.Надо определить PID сервера, который исполняет наши запросы. Обычно по команде top - это будет самый верхний процесс. Или посмотреть PID в базе - "SELECT datname,procpid,current_query FROM pg_stat_activity".Запуск отладчика: gdb <паровоз_к_серверу> . Например - gdb /opt/pgsql/bin/postgres 551 В отладчике запускаем команду - printf "%s\n", debug_query_string Команда выхода из отладчика не блещет новизной - "quit".
+	URL=http://de-gis.livejournal.com/107609.html
+	CREATED=1459176681
+
 -
 
 #FOLDER
 	ID=446
 	NAME=plpgsql
 	CREATED=1457104919
+	EXPANDED=YES
 	UNIQUEID=D6AB9980E21C11E5848BB4EBA1E46D3E
 
 #NOTE
@@ -3080,6 +3212,71 @@ Options: encoding = utf8, version=3
 	NAME=ERROR: a column definition list is required for functions returning “record”CREATE OR REPLACE FUNCTION get_user_by_username(_username text, _online bool)  RETURNS TABLE (    user_id int   ,user_name text   ,last_activity timestamp   , ... ) AS$func$BEGINIF _online THEN   RETURN QUERY   UPDATE users u    SET    last_activity = current_timestamp   WHERE  u.user_name = _username   RETURNING          u.user_id         ,u.user_name         ,u.last_activity         , ... ;ELSE   RETURN QUERY   SELECT u.user_id         ,u.user_name         ,u.last_activity         , ...   FROM   users u   WHERE  u.user_name = _username;END IF;END$func$  LANGUAGE plpgsql;
 	URL=http://stackoverflow.com/questions/8605174/postgresql-error-42601-a-column-definition-list-is-required-for-functions-ret
 	CREATED=1457104954
+
+#NOTE
+	ID=795
+	UNIQUEID=6F2F3330F4F411E5847E985C0095E745
+	NAME=PL/pgSQL - SQL Procedural Language
+	URL=http://postgresql.ru.net/manual/plpgsql.html
+	CREATED=1459176637
+
+#NOTE
+	ID=802
+	UNIQUEID=42A19A00F4F511E584838F80CE44B992
+	NAME=Создание пользовательских функций в PostgreSQLСинтаксис команды CREATE [ OR REPLACE ] FUNCTION имя_функции ([ [ метод_аргумента ][имя_аргумента ] тип_ аргумента [,…] ]) RETURNS тип_возвращаемого_значения   AS  'определение' LANGUAGE  'язык'  [ WITH ( атрибут […])]
+	URL=http://postgresql.ru.net/docs/function.html
+	CREATED=1459176992
+
+#NOTE
+	ID=803
+	UNIQUEID=67B0E800F4F511E58484D5A0C0334853
+	NAME=8.7. ПеречисленияCREATE TYPE mood AS ENUM ('sad', 'ok', 'happy');И вообще CREATE TYPE  довольнатаки мощная штуковина
+	URL=http://postgresql.ru.net/manual/datatype-enum.html
+	CREATED=1459177054
+
+#NOTE
+	ID=805
+	UNIQUEID=0C3A2EE0F4F611E58486967576D1CC38
+	NAME=PL/pgSQLCREATE OR REPLACE FUNCTION название функции (типы передаваемых данных через запятую) RETURNS тип возвращаемого значения AS$BODY$ DECLARE    Объявление переменных BEGIN    Тело программы RETURN возвращаемый результат; END;$BODY$ LANGUAGE язык, на котором написана функция (например, SQL или plpgsql) VOLATILE
+	URL=http://info-comp.ru/obucheniest/175--func-plpgsql.html
+	CREATED=1459177330
+
+#NOTE
+	ID=825
+	UNIQUEID=96975690F4FA11E58492BDDF70D8F41E
+	NAME=Return SETOF from PL/pgSQL functions
+	URL=https://wiki.postgresql.org/wiki/Return_more_than_one_row_of_data_from_PL/pgSQL_functions
+	CREATED=1459179281
+
+#NOTE
+	ID=826
+	UNIQUEID=C03F3F80F4FA11E58493B0AF77EB2873
+	NAME=PL/pgSQL wikiФормат объявления переменныхимя [ CONSTANT ] тип [ NOT NULL ] [ { DEFAULT | := } значение ];Передача аргументовпараметры обозначаются как $1, $2 и так далее.CREATE FUNCTION sales_tax(subtotal real) RETURNS real AS $$BEGIN    RETURN subtotal * 0.06;END;$$ LANGUAGE plpgsql;Или через псевдонимCREATE FUNCTION sales_tax(real) RETURNS real AS $$DECLARE    subtotal ALIAS FOR $1;BEGIN    RETURN subtotal * 0.06;END;$$ LANGUAGE plpgsql;
+	URL=https://ru.wikipedia.org/wiki/PL/pgSQL
+	CREATED=1459179350
+
+#NOTE
+	ID=827
+	UNIQUEID=1CFD7750F4FB11E584949268CFDE954B
+	NAME=PL/PythonРазрешается использовать лишь подмножество Python — запрещаются все операции ввода-вывода за пределы базы данных.
+	URL=https://ru.wikipedia.org/wiki/PL/Python
+	CREATED=1459179506
+
+-
+
+#FOLDER
+	ID=809
+	NAME=replication
+	CREATED=1459178040
+	EXPANDED=YES
+	UNIQUEID=B3517E30F4F711E58488DDF89ADFC873
+
+#NOTE
+	ID=810
+	UNIQUEID=C4C51D20F4F711E58489C017FF66B7C3
+	NAME=Streaming Replication
+	URL=https://wiki.postgresql.org/wiki/Streaming_Replication
+	CREATED=1459178070
 
 -
 
@@ -3398,7 +3595,6 @@ Options: encoding = utf8, version=3
 	ID=493
 	NAME=USB 1886
 	CREATED=1458373703
-	EXPANDED=YES
 	UNIQUEID=F4D63060EDA611E584D48F646746635C
 
 #NOTE
@@ -3472,12 +3668,11 @@ Options: encoding = utf8, version=3
 	CREATED=1458655633
 
 #NOTE
-	ID=793
+	ID=504
 	UNIQUEID=8107CF30F42811E58BACEA0E31C29B25
 	NAME=EVAL9 с 1886ВЕ3 связь по USB1. Так и не нашёл способа заблокировать FIFO оконечной точки (хотя соответствующий статусный флаг есть). Вопрос: возможно ли как-то отправить ГАРАНТИРОВАННО В ОДНОЙ ТРАНЗАКЦИИ несколько байт, т.е. предотвратить ситуацию, когда я забиваю буфер, а в это время приходит IN-запрос, и всё, что уже в буфере, отправялется к хосту? Ответ:FIFO 1-й оконечной точки можно заблокировать с помощью бита BLOCK_EP1 в регистре EP1_CFG2, FIFO 2-й оконечной точки - BLOCK_EP2 в регистре EP2_CFG2. Вы можете установить бит BLOCK_EP#, записать необходимое количество байт в буфер и сбросить этот бит, как только вы сбросите этот бит, данные из соответствующего буфера уйдут при приеме IN-запроса, пока бит BLOCK_EP# установлен, контроллер не будет передавать данные из буфера. Таким образом, запишите необходимое кол-во байт в буфер, подождите пока они уйдут, а потом уже заполняйте буфер дальше.2. На что влияет значение в регистре EP#_CFG1(регистр максимального размера пакета оконечной точки)?(Ведь на фактический размер пакета влияет значение, указываемое в дескрипторе оконечной точки...) Ответ ВНИМАНИЕ:Значение регистра EP#_CFG1 и соответствующее поле в дескрипторе должны совпадать. В дескрипторе вы сообщаете размер пакета хост-контроллеру, а в регистре EP#_CFG1 вы сообщаете размер пакета собственно ВЕ3.3. Дескрипторы описываются в строгом соответствии с таблицей из спецификации (нельзя, например, добавить новый дескриптор, заменив имеющиеся в таблице)? Ответ:Новый дескриптор 1886ВЕ3 добавить нельзя, возможно менять только значение полей дескриптора.В дескрипторе есть поля с обязательным значением и рекомендуемым. Поля с обязательным значением необходимо повторить в вашем проекте, поля с рекомендуемыми значениями можно менять, но работа контроллера с такими значениями дескриптора не гарантируются. 4. Как следствие вопроса №3: Возможно ли на ВЕ3 создать HID-устройство? На 1886ВЕ3 создать HID-устройство нельзя.НО! 1886ВЕ4 есть Пользовательский дескриптор, его можно попробовать переделать в Repot-Descriptor  HID  устройства5. Что такое IN/OUTДля обмена пользовательскими данными с хостконтроллером могут быть настроены четыре пользовательские конечные точки. Они могут быть сконфигурированы в режим IN (для передачи данных хост контроллеру) или OUT (для приёма данных от хостконтроллера).6. до момента начала автоматической инициализации пройдёт не менее  500 мс. Программа должна успеть за дать пользовательский дескриптор, сконфигурировать конечные точки, задать режим работы блока и разрешить его работу. После автоматической инициализации драйвер USBустройства, работающий на стороне остконтроллера,должен задать конфигурацию и интерфейс для блока контроллера USB. 
 	URL=http://forum.milandr.ru/viewtopic.php?f=4&t=65&sid=82c9912108ce0778f599d5438dfe1dae
 	CREATED=1459089050
-	ACTIVE=YES
 
 -
 
